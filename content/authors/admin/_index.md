@@ -64,7 +64,7 @@ education:
   - area: MEng Geotechnical Engineering
     institution: Fuzhou University
     date_start: 2019-09-01
-    date_end: 2021-06-31
+    date_end: 2021-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -75,7 +75,7 @@ education:
   - area: BSc Artificial Intelligence
     institution: Lanzhou University of Technology
     date_start: 2018-09-01
-    date_end: 2019-06-31
+    date_end: 2019-06-30
     summary: |
       GPA: 3.4/4.0
       
