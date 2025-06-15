@@ -3,7 +3,7 @@
 title: Yang Jian
 
 # Name pronunciation (optional)
-name_pronunciation: Yang Jian
+# name_pronunciation: Yang Jian
 
 # Full name (for SEO)
 first_name: Yang
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Candidate of Geotechnical Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
