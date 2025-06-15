@@ -4,15 +4,38 @@ date: 2024-05-19
 type: landing
 
 design:
-  # Section spacing
   spacing: '5rem'
 
-# Page sections
 sections:
-  - block: collection
+  # 第一部分：研究兴趣介绍（文字块）
+  - block: hero
     content:
       title: Selected Projects
-      text: I have a wide interest in all phenomena relating to the initiation and movement of landslides. Recently, I am mainly performing my research on the topics of (1) Initiation and movement mechanisms of rapid long travel landslides; (2)Prediction of landsliding by means of geotechnical experiments; (3) Initiation and maintenance of excess pore-water pressure and landsliding; (4) Formation of fluidized soil layer structures and landslide movement; (5) Risk assessment of large-scale reactivated landslides; (6) Instability of landslide dams and hazard mitigation; (7) landslides occurring under extreme weather; and (8) Shear behavior of landslide clay and fault gouge, by the approaches of (a) laboratory tests (ring shear tests and flume tests); (b) field investigation (landslide monitoring, Surface-Wave-Technique based survey, Tremor monitoring, seismic monitoring on slopes) and (c) theoretical analysis (continuum mechanics, and granular material mechanics).
+      text: >
+        I have a wide interest in all phenomena relating to the initiation and movement of landslides.
+        My current research mainly focuses on:
+        
+        1. Initiation and movement mechanisms of rapid long-travel landslides  
+        2. Prediction of landsliding via geotechnical experiments  
+        3. Generation and maintenance of excess pore-water pressure and landsliding  
+        4. Formation of fluidized soil layer structures and landslide movement  
+        5. Risk assessment of large-scale reactivated landslides  
+        6. Instability of landslide dams and hazard mitigation  
+        7. Landslides occurring under extreme weather  
+        8. Shear behavior of landslide clay and fault gouge  
+        
+        The research approaches include:  
+        - Laboratory tests (ring shear tests and flume tests)  
+        - Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
+        - Theoretical analysis (continuum mechanics, granular material mechanics)
+    design:
+      align: wide  # 让文字横向铺展，提升可读性
+      justify: left
+      background: light
+
+  # 第二部分：项目卡片展示
+  - block: collection
+    content:
       filters:
         folders:
           - project
