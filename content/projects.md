@@ -30,9 +30,9 @@ sections:
         - Theoretical analysis (continuum mechanics, granular material mechanics)
     design:
       align: wide  # 让文字横向铺展，提升可读性
-      justify: left
-      background:
-        color: light
+      #justify: left
+      #background:
+      #  color: light
 
 
   # 第二部分：项目卡片展示
