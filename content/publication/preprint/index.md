@@ -2,12 +2,11 @@
 title: "Landslide displacement prediction by using Bayesian optimization–temporal convolutional networks"
 authors:
 - admin
-- Jian Yang
-- Zhijie Huang
-- Wenbin Jian 
+- Huang Zhijie 
+- Jian Wenbin 
 - Luis F. Robledo 
 date: "2019-04-07T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1007/s11440-023-02205-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
