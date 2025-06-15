@@ -38,13 +38,13 @@ links:
 - name: Full Text (Springer)
   url: https://doi.org/10.1007/s11440-023-02205-8
 url_pdf: https://link.springer.com/content/pdf/10.1007/s11440-023-02205-8.pdf
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
