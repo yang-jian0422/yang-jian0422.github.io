@@ -31,7 +31,9 @@ sections:
     design:
       align: wide  # 让文字横向铺展，提升可读性
       justify: left
-      background: light
+      background:
+        color: light
+
 
   # 第二部分：项目卡片展示
   - block: collection
