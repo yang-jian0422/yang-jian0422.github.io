@@ -52,19 +52,19 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Geotechnical Engineering
+    institution: Fuzhou University
+    date_start: 2021-09-01
+    date_end: 2025-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MEng Geotechnical Engineering
+    institution: Fuzhou University
+    date_start: 2019-09-01
+    date_end: 2021-06-31
     summary: |
       GPA: 3.8/4.0
 
@@ -73,9 +73,9 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Lanzhou University of Technology
+    date_start: 2018-09-01
+    date_end: 2019-06-31
     summary: |
       GPA: 3.4/4.0
       
