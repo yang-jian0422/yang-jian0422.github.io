@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 杨坚
+title: Yang Jian
 
 # Name pronunciation (optional)
 name_pronunciation: Yang Jian
@@ -142,9 +142,9 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
   - name: Portuguese
     percent: 25
