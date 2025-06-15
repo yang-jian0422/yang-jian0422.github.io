@@ -17,7 +17,7 @@ publishDate: "2024-02-06T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Acta Geotechnica, 19*(7), 4947-4965"
 publication_short: ""
 
 abstract: Landslides caused by typhoons and rainstorms frequently occur in the mountainous areas of southeastern China, with a complex mechanism of disaster generation. Therefore, establishing a prediction model for early warning against such landslides is of great theoretical and practical significance. In response to the current shortcomings in landslide displacement prediction models, considering the dynamic evolutionary characteristics of landslide physical mechanisms in the study area, a novel model based on Bayesian optimization-temporal convolutional networks was developed. The proposed model can automatically perform feature extraction on a dataset of complex multivariate time series, preventing leakage of future data during the training process. Simultaneously, it leverages Bayesian optimization to discover optimal hyperparameters within the model, thereby offering additional insights into the hyperparameter tuning process. Compared with recurrent neural networks, the proposed model with flexible receptive fields has faster training speed and parallel computing capability. Finally, we experimentally compared the performance of the proposed algorithm and other common algorithms by analyzing the monitoring data from the Yaoshan landslide disaster in Anxi County, Fujian Province, China. The results show that the proposed model yields the best prediction results in various prediction ranges.
