@@ -26,14 +26,18 @@ abstract: Landslides caused by typhoons and rainstorms frequently occur in the m
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Landslide displacement prediction
+- Temporal convolutional networks
+- Bayesian optimization
+- Deep learning
+- Engineering geology
 
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: Full Text (Springer)
+  url: https://doi.org/10.1007/s11440-023-02205-8
+url_pdf: https://link.springer.com/content/pdf/10.1007/s11440-023-02205-8.pdf
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
 url_poster: '#'
