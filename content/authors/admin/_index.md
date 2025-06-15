@@ -47,7 +47,7 @@ profiles:
     url: https://orcid.org/0000-0001-6526-7441
 
 interests:
-  - Artificial Intelligence
+  - Slow Landslide Processes 
   - Computational Linguistics
   - Information Retrieval
 
