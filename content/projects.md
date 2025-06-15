@@ -4,11 +4,12 @@ date: 2024-05-19
 type: landing
 
 design:
+  # Section spacing
   spacing: '5rem'
 
+# Page sections
 sections:
-  # 第一部分：研究兴趣介绍（文字块）
-  - block: hero
+  - block: collection
     content:
       title: Selected Projects
       text: >
@@ -28,16 +29,6 @@ sections:
         - Laboratory tests (ring shear tests and flume tests)  
         - Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
         - Theoretical analysis (continuum mechanics, granular material mechanics)
-    design:
-      align: wide  # 让文字横向铺展，提升可读性
-      #justify: left
-      #background:
-      #  color: light
-
-
-  # 第二部分：项目卡片展示
-  - block: collection
-    content:
       filters:
         folders:
           - project
