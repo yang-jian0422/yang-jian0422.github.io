@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Slow Landslide Processes 
-  - Computational Linguistics
+  - Shear Behavior of Landslide Clay and Fault Gouge
   - Information Retrieval
 
 education:
