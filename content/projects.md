@@ -16,11 +16,11 @@ sections:
         I have a wide interest in all phenomena relating to the initiation and movement of landslides.
         My current research mainly focuses on:
         
-        1. Initiation and movement mechanisms of rapid long-travel landslides  
+        + Initiation and movement mechanisms of rapid long-travel landslides  
 
-        2. Prediction of landsliding via geotechnical experiments  
+        + Prediction of landsliding via geotechnical experiments  
 
-        3. Generation and maintenance of excess pore-water pressure and landsliding 
+        + Generation and maintenance of excess pore-water pressure and landsliding 
 
         4. Formation of fluidized soil layer structures and landslide movement  
 
