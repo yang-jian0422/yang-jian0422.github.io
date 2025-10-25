@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Investigation of intermittent motion mechanisms in large landslides based on in-situ monitoring and microtremor survey"
 authors:
 - admin
 - Robert Ford
