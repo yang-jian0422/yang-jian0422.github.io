@@ -2,7 +2,10 @@
 title: "Investigation of intermittent motion mechanisms in large landslides based on in-situ monitoring and microtremor survey"
 authors:
 - admin
-- Robert Ford
+- Huiqi Zhang
+- Wenbin Jian
+- Lipeng Lin
+- Luis F. Robledo 
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
