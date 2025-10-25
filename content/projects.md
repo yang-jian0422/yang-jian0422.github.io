@@ -17,12 +17,17 @@ sections:
         My current research mainly focuses on:
         
         1. Initiation and movement mechanisms of rapid long-travel landslides  
+
         2. Prediction of landsliding via geotechnical experiments  
-        3. Generation and maintenance of excess pore-water pressure and landsliding  
+
+        3. Generation and maintenance of excess pore-water pressure and landsliding 
+
         4. Formation of fluidized soil layer structures and landslide movement  
+
         5. Risk assessment of large-scale reactivated landslides  
-        6. Instability of landslide dams and hazard mitigation  
+
         7. Landslides occurring under extreme weather  
+
         8. Shear behavior of landslide clay and fault gouge  
         
         The research approaches include:  
