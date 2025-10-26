@@ -40,7 +40,7 @@ sections:
 
         My current research mainly focuses on:
         
-        + Initiation and movement mechanisms of rapid long-travel landslides  
+        + Initiation and movement mechanisms of slow-moving landslides  
         + Prediction of landsliding via geotechnical experiments  
         + Generation and maintenance of excess pore-water pressure and landsliding 
         + Formation of fluidized soil layer structures and landslide movement  
@@ -53,7 +53,7 @@ sections:
         + Laboratory tests (ring shear tests and flume tests) 
         + Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
         + Theoretical analysis (continuum mechanics, granular material mechanics)
-        
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
