@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
       title: '📚 My Research'
@@ -42,23 +43,17 @@ sections:
         + Initiation and movement mechanisms of rapid long-travel landslides  
         + Prediction of landsliding via geotechnical experiments  
         + Generation and maintenance of excess pore-water pressure and landsliding 
-
         + Formation of fluidized soil layer structures and landslide movement  
-
         + Risk assessment of large-scale reactivated landslides  
-
         + Landslides occurring under extreme weather  
-
         + Shear behavior of landslide clay and fault gouge  
         
         The research approaches include: 
          
         + Laboratory tests (ring shear tests and flume tests) 
-
         + Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
-
         + Theoretical analysis (continuum mechanics, granular material mechanics)
-
+        
         Please reach out to collaborate 😃
     design:
       columns: '1'
