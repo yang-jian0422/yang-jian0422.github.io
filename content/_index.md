@@ -35,10 +35,32 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I have a wide interest in all phenomena relating to the initiation and movement of landslides.
         
+        My current research mainly focuses on:
+        
+        + Initiation and movement mechanisms of rapid long-travel landslides  
+
+        + Prediction of landsliding via geotechnical experiments  
+
+        + Generation and maintenance of excess pore-water pressure and landsliding 
+
+        + Formation of fluidized soil layer structures and landslide movement  
+
+        + Risk assessment of large-scale reactivated landslides  
+
+        + Landslides occurring under extreme weather  
+
+        + Shear behavior of landslide clay and fault gouge  
+        
+        The research approaches include: 
+         
+        + Laboratory tests (ring shear tests and flume tests) 
+
+        + Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
+
+        + Theoretical analysis (continuum mechanics, granular material mechanics)
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
