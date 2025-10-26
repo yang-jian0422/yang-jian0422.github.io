@@ -35,11 +35,11 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Yang Jian1"
+      text: "Yang Jian"
 
 # Site footer
-
 footer:
+  enable: true
   text: ""
   copyright:
     notice: ""
