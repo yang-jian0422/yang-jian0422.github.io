@@ -22,18 +22,18 @@ sections:
 
         + Generation and maintenance of excess pore-water pressure and landsliding 
 
-        4. Formation of fluidized soil layer structures and landslide movement  
+        + Formation of fluidized soil layer structures and landslide movement  
 
-        5. Risk assessment of large-scale reactivated landslides  
+        + Risk assessment of large-scale reactivated landslides  
 
-        7. Landslides occurring under extreme weather  
+        + Landslides occurring under extreme weather  
 
-        8. Shear behavior of landslide clay and fault gouge  
+        + Shear behavior of landslide clay and fault gouge  
         
         The research approaches include:  
-        - Laboratory tests (ring shear tests and flume tests)  
-        - Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
-        - Theoretical analysis (continuum mechanics, granular material mechanics)
+        + Laboratory tests (ring shear tests and flume tests)  
+        + Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
+        + Theoretical analysis (continuum mechanics, granular material mechanics)
       filters:
         folders:
           - project
