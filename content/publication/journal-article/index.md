@@ -10,7 +10,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2025-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.enggeo.2025.108117"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
@@ -30,7 +30,11 @@ abstract: The Yaoshan landslide, situated in the hilly and mountainous terrain o
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Intermittent motion
+- Microtremor survey
+- In-situ monitoring
+- Internal structures
+- Preferential flow pathways
 featured: false
 
 links:
