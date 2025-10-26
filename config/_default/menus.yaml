@@ -1,7 +1,7 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
   #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
+  #   The weight parameter defines the order that the links will appear in. weight 是 排序权重（order weight），用于控制同一级菜单或列表项目的显示顺序。
 
 main:
   - name: Bio
