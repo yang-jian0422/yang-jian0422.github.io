@@ -36,7 +36,7 @@ featured: false
 links:
  - name: "Full Text (Elsevier)"
    url: "https://www.sciencedirect.com/science/article/abs/pii/S0013795225002133?via%3Dihub"
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: 'paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
