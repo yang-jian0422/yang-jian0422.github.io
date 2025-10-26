@@ -22,7 +22,7 @@ publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Engineering Geology, 354*(1)"
-publication_short: ""
+publication_short: "Eng. Geol."
 
 abstract: The Yaoshan landslide, situated in the hilly and mountainous terrain of southeastern China, exhibits typical episodic sliding behavior driven by a complex subsurface hydrogeological system. This study integrates long-term in-situ monitoring data with microtremor survey techniques to investigate the internal mechanisms underlying its intermittent movement. A two-dimensional apparent S-wave velocity ($V_x$) structure was constructed for the key sliding area, revealing both lateral and vertical discontinuities associated with lithological boundaries and potential slip surfaces. By correlating low-velocity anomalies with borehole lithology and observed deep-seated deformation features, the depth and geometry of the principal slip surface were identified. Several geophysical cross-sections revealed bowl-shaped depressions within the landslide mass, where interconnected low-velocity zones likely function as preferential hydrological pathways. Monitoring data indicate that these depressions are prone to rapid pore water pressure buildup during intense rainfall, which can trigger reactivation of sliding. Field surveys further verified the hydraulic connectivity between low-velocity zones and surface gullies, suggesting strong coupling between surface runoff and internal groundwater flow. The perennial flow in gullies, combined with long-term seepage through colluvial deposits, may accelerate internal erosion within the slip zone. These findings offer new insights into the hydro-mechanical coupling mechanisms of landslides and provide a scientific foundation for risk assessment and the design of mitigation measures in geologically similar settings.
 
@@ -35,7 +35,7 @@ tags:
 - In-situ monitoring
 - Internal structures
 - Preferential flow pathways
-featured: ture
+featured: true
 
 links:
  - name: "Full Text (Elsevier)"
