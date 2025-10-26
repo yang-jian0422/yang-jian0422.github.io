@@ -30,11 +30,12 @@ sections:
 
         + Shear behavior of landslide clay and fault gouge  
         
-        The research approaches include:  
+        The research approaches include: 
+         
         + Laboratory tests (ring shear tests and flume tests) 
 
         + Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
-        
+
         + Theoretical analysis (continuum mechanics, granular material mechanics)
       filters:
         folders:
