@@ -40,9 +40,9 @@ header:
 # Site footer
 
 footer:
-show_powered_by: false   # ← 新增：关闭 "Published with Hugo Blox Builder"
-copyright:
-    notice: '© 2025 Yang Jian. All rights reserved.'
+  text: ""
+  copyright:
+    notice: ""
     license:
       enable: false #true
       allow_derivatives: false
