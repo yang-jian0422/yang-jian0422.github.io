@@ -73,8 +73,9 @@ This work is driven by the results in my [previous paper](/publication/conferenc
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
 {{< pdf src="tcn.pdf" width="100%" height="800px" >}}
 
-{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
