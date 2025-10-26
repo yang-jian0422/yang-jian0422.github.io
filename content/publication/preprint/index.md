@@ -49,8 +49,8 @@ url_pdf: https://link.springer.com/content/pdf/10.1007/s11440-023-02205-8.pdf
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: "TOP"
   preview_only: false
 
 # Associated Projects (optional).
