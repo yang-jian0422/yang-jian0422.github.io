@@ -6,8 +6,8 @@ title: Yang Jian
 # name_pronunciation: Yang Jian
 
 # Full name (for SEO)
-first_name: Yang
-last_name: Jian
+first_name: 杨
+last_name: 坚
 
 # Status emoji
 status:
@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: PhD Geotechnical Engineering
-    institution: Fuzhou University
+    institution: 福州大学
     date_start: 2021-09-01
     date_end: 2025-12-31
     summary: |
@@ -62,7 +62,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: MEng Geotechnical Engineering
-    institution: Fuzhou University
+    institution: 福州大学
     date_start: 2019-09-01
     date_end: 2021-06-30
     summary: |
@@ -73,7 +73,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Civil Engineering
-    institution: Lanzhou University of Technology
+    institution: 兰州理工大学
     date_start: 2018-09-01
     date_end: 2019-06-30
     summary: |
