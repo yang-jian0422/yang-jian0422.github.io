@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate of Geotechnical Engineering
+role: 博士研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -52,12 +52,12 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Geotechnical Engineering
+  - area: 博士 岩土工程
     institution: 福州大学
     date_start: 2021-09-01
     date_end: 2025-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Jian](https://zjxy.fzu.edu.cn/info/1017/4904.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      博士论文题目 _Why LLMs are awesome_. 导师 [简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Civil Engineering
+  - area: 本科 土木工程
     institution: 兰州理工大学
     date_start: 2018-09-01
     date_end: 2019-06-30
