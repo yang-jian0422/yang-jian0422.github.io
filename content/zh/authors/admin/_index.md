@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang Jian
+title: 杨坚
 
 # Name pronunciation (optional)
 # name_pronunciation: Yang Jian
