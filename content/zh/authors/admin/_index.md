@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6526-7441
 
-interests:
+research interests:
   - Slow Landslide Processes 
   - Shear Behavior of Landslide Clay and Fault Gouge
   - Information Retrieval
