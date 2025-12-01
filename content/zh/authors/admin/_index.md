@@ -58,7 +58,6 @@ education:
     date_end: 2025-12-31
     summary: |
       论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 
-      
       导师 [简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
     button:
       text: 'Read Thesis'
@@ -112,7 +111,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 素质技能
     items:
       - name: Python
         description: ''
@@ -126,7 +125,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -148,8 +147,8 @@ languages:
     percent: 100
   - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  # - name: Portuguese
+  #   percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
