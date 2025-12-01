@@ -57,9 +57,8 @@ education:
     date_start: 2019-09-01
     date_end: 2025-12-31
     summary: |
-      导师：[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
-
-      论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 
+      - 导师：[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
+      - 论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 
       
     button:
       text: 'Read Thesis'
@@ -82,7 +81,7 @@ education:
     summary: |
       GPA: 3.4/4.0
 
-      论文题目：温州某深基坑支护结构设计与数值模拟分析
+      - 论文题目：温州某深基坑支护结构设计与数值模拟分析
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -165,7 +164,10 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      2016 高教社杯全国大学生数学建模竞赛甘肃赛区本科组一等奖
+
+      2017 第十届全国大学生先进成图技术与产品信息建模创新大赛（个人尺规作图）国家二等奖
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
