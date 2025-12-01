@@ -81,6 +81,8 @@ education:
     date_end: 2018-06-30
     summary: |
       GPA: 3.4/4.0
+
+      论文题目：温州某深基坑支护结构设计与数值模拟分析
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
