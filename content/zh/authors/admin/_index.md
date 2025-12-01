@@ -58,7 +58,7 @@ education:
     date_end: 2025-12-31
     summary: |
       导师：[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
-      
+
       论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 
       
     button:
@@ -77,8 +77,8 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 本科 土木工程
     institution: 兰州理工大学
-    date_start: 2018-09-01
-    date_end: 2019-06-30
+    date_start: 2014-09-01
+    date_end: 2018-06-30
     summary: |
       GPA: 3.4/4.0
       
