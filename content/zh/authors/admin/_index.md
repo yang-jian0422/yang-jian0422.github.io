@@ -57,8 +57,9 @@ education:
     date_start: 2019-09-01
     date_end: 2025-12-31
     summary: |
+      导师：[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
       论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 
-      导师 [简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
+      
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
