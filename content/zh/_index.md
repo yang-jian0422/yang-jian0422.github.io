@@ -36,23 +36,19 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I have a wide interest in all phenomena relating to the initiation and movement of landslides.
-
-        My current research mainly focuses on:
+        主要研究方向:
         
-        + Initiation and movement mechanisms of slow-moving landslides  
-        + Prediction of landsliding via geotechnical experiments  
-        + Generation and maintenance of excess pore-water pressure and landsliding 
-        + Formation of fluidized soil layer structures and landslide movement  
-        + Risk assessment of large-scale reactivated landslides  
-        + Landslides occurring under extreme weather  
-        + Shear behavior of landslide clay and fault gouge  
+        + 缓慢滑坡的启动与运动机制研究
+        + 基于深度学习的滑坡预测研究 
+        + 滑动面黏土的剪切特性研究
+        + 新型多支盘锚固结构研究
         
-        The research approaches include: 
-         
-        + Laboratory tests (ring shear tests and flume tests) 
-        + Field investigations (landslide monitoring, Surface-Wave surveys, tremor and seismic monitoring)  
-        + Theoretical analysis (continuum mechanics, granular material mechanics)
+        主要研究方法: 
+      
+        + 大型原位多物理场滑坡监测平台（2019.09-至今）
+        + 全自动孔压控制环剪试验（滑动带水-力耦合、速率效应及强度恢复） 
+        + 地球物理探测（ERT、微动阵列探测、FVDS）
+        + 理论分析（RSF方程及粘塑性模型描述滑动带粘滑蠕滑运动）
 
         Please reach out to collaborate 😃
     design:
