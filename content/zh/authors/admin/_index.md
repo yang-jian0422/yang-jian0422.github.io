@@ -52,26 +52,26 @@ interests:
   - Information Retrieval
 
 education:
-  - area: 博士 岩土工程
+  - area: 博士 岩土工程（硕博连读）
     institution: 福州大学
-    date_start: 2021-09-01
+    date_start: 2019-09-01
     date_end: 2025-12-31
     summary: |
       博士论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 导师 [简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Geotechnical Engineering
-    institution: 福州大学
-    date_start: 2019-09-01
-    date_end: 2021-06-30
-    summary: |
-      GPA: 3.8/4.0
+  # - area: MEng Geotechnical Engineering
+  #   institution: 福州大学
+  #   date_start: 2019-09-01
+  #   date_end: 2021-06-30
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: 本科 土木工程
     institution: 兰州理工大学
     date_start: 2018-09-01
@@ -181,6 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## 关于我
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
