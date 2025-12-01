@@ -57,7 +57,7 @@ education:
     date_start: 2021-09-01
     date_end: 2025-12-31
     summary: |
-      博士论文题目 _Why LLMs are awesome_. 导师 [简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      博士论文题目：水动力驱动下粘-滑阶跃型滑坡启滑机制与动态预警 导师 [简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
