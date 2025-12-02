@@ -141,8 +141,4 @@ $$
   <img src="4.png" width="75%">
 </p>
 
-<p align="center">
-  <img src="6.jpg" width="70%">
-</p>
-
 
