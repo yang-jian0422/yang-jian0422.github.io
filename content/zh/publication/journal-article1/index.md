@@ -95,7 +95,11 @@ slides: example
 {{% /callout %}}
 
 <p align="center">
-  <img src="1.jpg" width="85%">
+  <img src="1.jpg" width="95%">
+</p>
+
+<p align="center">
+  <img src="5.jpg" width="95%">
 </p>
 
 {{% callout note %}}
