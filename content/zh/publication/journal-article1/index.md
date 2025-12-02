@@ -1,19 +1,20 @@
 ---
-title: "Investigation of intermittent motion mechanisms in large landslides based on in-situ monitoring and microtremor survey"
+title: "注浆支盘式锚杆拉拔荷载传递非线性分析"
 authors:
 - admin
-- Huiqi Zhang
-- Wenbin Jian
-- Lipeng Lin
-- Luis F. Robledo 
+- 简文彬
+- 黄炜
+- 黄聪惠
+- 罗金妹
+- 李先忠
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2025-09-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.enggeo.2025.108117"
+doi: "https://doi.org/10.11779/CJGE202110016"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-01T00:00:00Z"
+publishDate: "2021-10-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,20 +22,20 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Engineering Geology, 354*(1)"
-publication_short: "Eng. Geol."
+publication: "*岩土工程学报, 43*(10)"
+# publication_short: "Eng. Geol."
 
-abstract: The Yaoshan landslide, situated in the hilly and mountainous terrain of southeastern China, exhibits typical episodic sliding behavior driven by a complex subsurface hydrogeological system. This study integrates long-term in-situ monitoring data with microtremor survey techniques to investigate the internal mechanisms underlying its intermittent movement. A two-dimensional apparent S-wave velocity ($V_x$) structure was constructed for the key sliding area, revealing both lateral and vertical discontinuities associated with lithological boundaries and potential slip surfaces. By correlating low-velocity anomalies with borehole lithology and observed deep-seated deformation features, the depth and geometry of the principal slip surface were identified. Several geophysical cross-sections revealed bowl-shaped depressions within the landslide mass, where interconnected low-velocity zones likely function as preferential hydrological pathways. Monitoring data indicate that these depressions are prone to rapid pore water pressure buildup during intense rainfall, which can trigger reactivation of sliding. Field surveys further verified the hydraulic connectivity between low-velocity zones and surface gullies, suggesting strong coupling between surface runoff and internal groundwater flow. The perennial flow in gullies, combined with long-term seepage through colluvial deposits, may accelerate internal erosion within the slip zone. These findings offer new insights into the hydro-mechanical coupling mechanisms of landslides and provide a scientific foundation for risk assessment and the design of mitigation measures in geologically similar settings.
+abstract: 基于支盘式锚杆室内模型拉拔试验，探究荷载-位移曲线的变化特征和轴力传递特性，然后在此基础上探讨支盘式锚杆的力学模型，推导出盘端阻力的理论计算公式，结合锚-土界面的双曲线非线性模型，采用分段变形协调迭代算法建立荷载传递计算模型，并与实测数据进行对比验证，最后对极限扩孔压力分布、支盘挤扩角等参数进行敏感性分析。研究结果表明，荷载-位移曲线可划分为三阶段，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长；计算模型所得结果与室内实测数据基本一致，验证了本模型的有效性：支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状”；挤扩角大于50°时，对锚杆承载性状影响显著。研究结果对支盘式锚杆的受力分析和设计具有重要的理论及实际意义。
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Intermittent motion
-- Microtremor survey
-- In-situ monitoring
-- Internal structures
-- Preferential flow pathways
+- 支盘式锚杆
+- 扩孔理论
+- 非线性
+- 荷载传递
+- 数值计算
 featured: true
 
 links:
