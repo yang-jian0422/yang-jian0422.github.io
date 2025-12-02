@@ -78,10 +78,6 @@ slides: example
 
 **图 1** 支盘式锚杆拉拔荷载传递机制示意图。
 
-$$
-p_\mathrm{u}=c\cot\varphi(1+\sin\varphi){\left(\frac{R_\mathrm{p}}{R_\mathrm{u}}\right)^{\frac{2\sin\varphi}{1+\sin\varphi}}-c\cot\varphi}
-$$
-
 - 相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
 
 - 在试验模型基础上探讨支盘式锚杆力学模型,通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出了盘端阻力的计算理论式。
@@ -94,15 +90,22 @@ $$
 {{% callout note %}}
 
 相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
+{{% /callout %}}
 
 <p align="center">
-  <img src="1.jpg" width="75%">
+  <img src="1.jpg" width="85%">
 </p>
 
-{{% /callout %}}
-
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+在试验模型基础上探讨支盘式锚杆力学模型,通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出了盘端阻力的计算理论式。
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+<p align="center">
+  <img src="1.jpg" width="85%">
+</p>
+
+$$
+p_\mathrm{u}=c\cot\varphi(1+\sin\varphi){\left(\frac{R_\mathrm{p}}{R_\mathrm{u}}\right)^{\frac{2\sin\varphi}{1+\sin\varphi}}-c\cot\varphi}
+$$
+
+
