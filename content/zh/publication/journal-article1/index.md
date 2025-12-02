@@ -72,6 +72,15 @@ projects: []
 slides: example
 ---
 
+## 插图示例
+
+<p align="center">
+  <img src="featured.png" width="75%">
+</p>
+
+**图 1** 支盘式锚杆拉拔荷载传递机制示意图。
+
+---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
