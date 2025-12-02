@@ -72,12 +72,9 @@ projects: []
 slides: example
 ---
 
-<div style="text-align: center;">
-
-{{< figure src="1.png" title="<div style='text-align:center;'>图 1. 支盘式锚杆力学模型。
-</div>" width="75%" >}}
-
-</div>
+<p align="center">
+  <img src="1.png" width="85%">
+</p>
 
 
 - 相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
@@ -94,14 +91,13 @@ slides: example
 相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
 {{% /callout %}}
 
-{{< figure src="1.jpg" title="图 1. 支盘式锚杆力学模型" width="85%" class="center" >}}
+<p align="center">
+  <img src="1.jpg" width="85%">
+</p>
 
-<div style="text-align: center;">
-
-{{< figure src="5.jpg" title="<div style='text-align:center;'>图 1. 支盘式锚杆力学模型。
-</div>" width="75%" >}}
-
-</div>
+<p align="center">
+  <img src="5.jpg" width="65%">
+</p>
 
 {{% callout note %}}
 在试验模型基础上探讨支盘式锚杆力学模型,通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出了盘端阻力的计算理论式。
