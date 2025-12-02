@@ -71,6 +71,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+支盘式锚杆的承载力主要有两部分组成：支盘端阻力与锚固段的侧阻力。在拉拔试验加载过程中，支盘与土体的相互作用与静力触探试验的锥头相似，土体挤压变形引起盘周围土体的径向位移，同时压缩挤密盘端土体（塑性区不断向外延伸发展），提高了支盘式锚杆的抗拔承载力。
 
 <p align="center">
   <img src="1.png" width="85%">
@@ -97,7 +98,7 @@ slides: example
 <div style="text-align:center; margin-top:0; margin-bottom:0;">
   <img src="5.jpg" width="70%">
 </div>
-
+---
 {{% callout note %}}
 在试验模型基础上探讨支盘式锚杆力学模型,通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出了盘端阻力的计算理论式。
 {{% /callout %}}
@@ -107,29 +108,32 @@ slides: example
 </p>
 
 当$r_{0}\leq r_{x}\leq(s_{m}\tan(\theta)+r_{0})$时：
+
 $$
 P_u=Ccot\varphi(1+sin\varphi){\left[\frac{G(1+\Delta-(\frac{r_0}{r_x})^2)}{Ccos\varphi+G\Delta}\right]}^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
 $$
+
 当$(s_m\tan(\theta)+r_0)\leq r_x\leq R$时：
+
 $$
 P_u=Ccot\varphi(1+sin\varphi)\left[\frac{G(1+\Delta-(\frac{r_x-s_m\tan(\theta)}{r_x})^2)}{Ccos\varphi+G\Delta}\right]^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
 $$
-
+---
 {{% callout note %}}
 锚-土界面选用双曲线非线性模型，采用分段变形协调迭代算法建立了荷载传递计算模型，计算所得结果与实测数据基本一致。
 {{% /callout %}}
 
-
+---
 {{% callout note %}}
 支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状” 。支盘的挤扩角大于 50°时，对锚杆承载性状影响显著。
 {{% /callout %}}
 
 <p align="center">
-  <img src="4.png" width="80%">
+  <img src="4.png" width="75%">
 </p>
 
 <p align="center">
-  <img src="6.jpg" width="80%">
+  <img src="6.jpg" width="70%">
 </p>
 
 
