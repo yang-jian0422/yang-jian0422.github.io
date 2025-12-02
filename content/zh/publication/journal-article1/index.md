@@ -80,6 +80,8 @@ slides: example
 
 **图 1** 支盘式锚杆拉拔荷载传递机制示意图。
 
+$$p_\mathrm{u}=c\cot\varphi(1+\sin\varphi){\left(\frac{R_\mathrm{p}}{R_\mathrm{u}}\right)^{\frac{2\sin\varphi}{1+\sin\varphi}}-c\cot\varphi}$$
+
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
