@@ -55,7 +55,7 @@ url_pdf: 'zh/publication/journal-article1/paper.pdf'
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: "Top" # 指定图片的焦点区域，用于自动裁剪时对齐。可选值包括 "Center", "TopLeft", "BottomRight" 等。这里为空 ""，表示默认居中。
-  preview_only: false #控制该图片是否只用于列表页预览。false：图片会显示在列表页和正文页。true：仅在列表页显示，不会出现在正文顶部。
+  preview_only: ture #false #控制该图片是否只用于列表页预览。false：图片会显示在列表页和正文页。true：仅在列表页显示，不会出现在正文顶部。
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -71,6 +71,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
 支盘式锚杆的承载力主要有两部分组成：支盘端阻力与锚固段的侧阻力。在拉拔试验加载过程中，支盘与土体的相互作用与静力触探试验的锥头相似，土体挤压变形引起盘周围土体的径向位移，同时压缩挤密盘端土体（塑性区不断向外延伸发展），提高了支盘式锚杆的抗拔承载力。
 
 <p align="center">
@@ -125,6 +126,10 @@ $$
 {{% callout note %}}
 锚-土界面选用双曲线非线性模型，采用分段变形协调迭代算法建立了荷载传递计算模型，计算所得结果与实测数据基本一致。
 {{% /callout %}}
+
+<p align="center">
+  <img src="featured.png" width="85%">
+</p>
 
 ---
 {{% callout note %}}
