@@ -72,13 +72,16 @@ projects: []
 slides: example
 ---
 
-<p align="center">
-  <img src="1.png" width="75%">
-</p>
 
-**图 1** 支盘式锚杆力学模型。
+<div style="text-align: center;">
 
-{{< figure src="1.png" title="图 1. 支盘式锚杆力学模型" width="75%" class="center" >}}
+{{< figure src="1.png" title="<div style='text-align:center;'>图 1. 支盘式锚杆力学模型。
+</div>" width="75%" >}}
+
+</div>
+
+
+
 
 - 相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
 
