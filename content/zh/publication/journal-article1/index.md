@@ -87,7 +87,7 @@ slides: example
 </p>
 
 <p align="center">
-  <img src="5.jpg" width="65%">
+  <img src="5.jpg" width="70%">
 </p>
 
 {{% callout note %}}
@@ -110,5 +110,9 @@ $$
 {{% callout note %}}
 支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状” 。支盘的挤扩角大于 50°时，对锚杆承载性状影响显著。
 {{% /callout %}}
+
+<p align="center">
+  <img src="4.png" width="85%">
+</p>
 
 
