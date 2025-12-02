@@ -72,10 +72,8 @@ projects: []
 slides: example
 ---
 
-## 插图示例
-
 <p align="center">
-  <img src="1.jpg" width="75%">
+  <img src="1.png" width="75%">
 </p>
 
 **图 1** 支盘式锚杆拉拔荷载传递机制示意图。
@@ -92,18 +90,8 @@ $$
 
 - 支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状” 。支盘的挤扩角大于 50°时，对锚杆承载性状影响显著。
 
-> [!NOTE]
-> Useful information.
-
-> [!TIP]
-> Helpful advice.
-
-> [!WARNING]
-> Urgent warning!
-
 ---
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
 相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
 
