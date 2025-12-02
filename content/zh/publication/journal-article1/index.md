@@ -106,8 +106,13 @@ slides: example
   <img src="1.jpg" width="85%">
 </p>
 
+当$r_{0}\leq r_{x}\leq(s_{m}\tan(\theta)+r_{0})$时：
 $$
-p_\mathrm{u}=c\cot\varphi(1+\sin\varphi){\left(\frac{R_\mathrm{p}}{R_\mathrm{u}}\right)^{\frac{2\sin\varphi}{1+\sin\varphi}}-c\cot\varphi}
+P_u=Ccot\varphi(1+sin\varphi){\left[\frac{G(1+\Delta-(\frac{r_0}{r_x})^2)}{Ccos\varphi+G\Delta}\right]}^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
+$$
+当$(s_m\tan(\theta)+r_0)\leq r_x\leq R$时：
+$$
+P_u=Ccot\varphi(1+sin\varphi)\left[\frac{G(1+\Delta-(\frac{r_x-s_m\tan(\theta)}{r_x})^2)}{Ccos\varphi+G\Delta}\right]^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
 $$
 
 {{% callout note %}}
