@@ -92,6 +92,15 @@ $$
 
 - 支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状” 。支盘的挤扩角大于 50°时，对锚杆承载性状影响显著。
 
+> [!NOTE]
+> Useful information.
+
+> [!TIP]
+> Helpful advice.
+
+> [!WARNING]
+> Urgent warning!
+
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
