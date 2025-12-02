@@ -95,6 +95,9 @@ $$
 ---
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+
+相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
+
 {{% /callout %}}
 
 {{% callout note %}}
