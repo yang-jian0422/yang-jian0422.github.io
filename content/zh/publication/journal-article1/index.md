@@ -96,7 +96,12 @@ slides: example
 
 {{< figure src="1.jpg" title="图 1. 支盘式锚杆力学模型" width="85%" class="center" >}}
 
-{{< figure src="5.jpg" title="图 1. 支盘式锚杆力学模型" width="75%" class="center" >}}
+<div style="text-align: center;">
+
+{{< figure src="5.jpg" title="<div style='text-align:center;'>图 1. 支盘式锚杆力学模型。
+</div>" width="75%" >}}
+
+</div>
 
 {{% callout note %}}
 在试验模型基础上探讨支盘式锚杆力学模型,通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出了盘端阻力的计算理论式。
