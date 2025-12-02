@@ -70,6 +70,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
+
 ---
 
 支盘式锚杆的承载力主要有两部分组成：支盘端阻力与锚固段的侧阻力。在拉拔试验加载过程中，支盘与土体的相互作用与静力触探试验的锥头相似，土体挤压变形引起盘周围土体的径向位移，同时压缩挤密盘端土体（塑性区不断向外延伸发展），提高了支盘式锚杆的抗拔承载力。
