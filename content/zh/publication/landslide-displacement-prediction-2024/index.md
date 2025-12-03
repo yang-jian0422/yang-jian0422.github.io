@@ -81,7 +81,7 @@ TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下�
   <img src="tcn.png" width="80%">
 </p>
 
-在每次迭代中，贝叶斯优化通过最大化采集函数（Acquisition Function）以确定目标函数的下一个采样位置。随后，在采集函数取最大值的点处（即argmax）对目标函数进行采样，并利用新的观测结果更新高斯过程模型。该过程不断重复，直至满足终止条件。
+在每次迭代中，贝叶斯优化通过最大化采集函数以确定目标函数的下一个采样位置。随后，在采集函数取最大值的点处对目标函数进行采样，并利用新的观测结果更新高斯过程模型。该过程不断重复，直至满足终止条件。
 
 <p align="center">
   <img src="fig3.png" width="65%">
@@ -97,7 +97,7 @@ TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下�
 </p>
 
 <p align="center">
-  <img src="fig10.png" width="75%">
+  <img src="fig10.png" width="70%">
 </p>
 
 {{% callout note %}}
@@ -105,6 +105,6 @@ TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下�
 {{% /callout %}}
 
 <p align="center">
-  <img src="fig13.png" width="75%">
+  <img src="fig13.png" width="80%">
 </p>
 
