@@ -51,7 +51,7 @@ url_pdf: https://link.springer.com/content/pdf/10.1007/s11440-023-02205-8.pdf
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: "TOP"
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -69,17 +69,33 @@ projects:
 slides: example
 ---
 
-TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下三个特性：
+<p align="center">
+  <img src="featured.png" width="75%">
+</p>
 
+TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下三个特性：
 - 输出序列与输入序列具有相同的长度；
-- 当前时间 t的预测结果只与历史信息相关，从未来到过去不可能有信息泄
-漏；
-- 通过使用扩张卷积，感受野以及有效记忆随着网络深度的增加呈指数增长。
-可以抓取滑坡演化过程中更长的历史时间序列依赖信息，提高滑坡位移预测精度。
+- 当前时间 t的预测结果只与历史信息相关，从未来到过去不可能有信息泄漏；
+- 通过使用扩张卷积，感受野以及有效记忆随着网络深度的增加呈指数增长。可以抓取滑坡演化过程中更长的历史时间序列依赖信息，提高滑坡位移预测精度。
+
+<p align="center">
+  <img src="tcn.png" width="75%">
+</p>
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+针对滑坡的复杂动力学机制与非线性演化特征，所提出的 BO-TCN 模
+型在训练过程中有效避免了基于位移分解方法所固有的“未来数据泄露”风险。
+预测结果显示，该模型在多项评价指标（MAE、MSE、RMSE 与 R2）上均取得
+最优表现，显著优于现有的滑坡位移预测模型，具有较高的实用性与推广价值。
+{{% /callout %}}
+
+{{% callout note %}}
+与静态机器学习模型（BO-RF、BO-SVM）相比，BO-TCN 能够更好地
+刻画滑坡位移的时变非线性规律，在动态预测任务中表现出明显优势。同时，与
+传统的深度学习模型（1D-CNN、LSTM、GRU）相比，BO-TCN 在捕捉尧山滑
+坡阶梯状变形阶段的响应特征方面具有更强的泛化能力和预测稳定性。研究结
+果表明，通过对降雨与孔隙水压力的实时监测并结合该模型，可实现滑坡再激
+活阶段的提前识别与预警。
 {{% /callout %}}
 
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
