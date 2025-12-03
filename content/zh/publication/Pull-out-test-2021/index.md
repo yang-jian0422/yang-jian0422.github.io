@@ -1,5 +1,5 @@
 ---
-title: "注浆支盘式锚杆拉拔荷载传递非线性分析"
+title: "注浆支盘式锚杆拉拔试验及极限承载力计算"
 authors:
 - admin
 - 简文彬
@@ -10,11 +10,11 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2021-10-01T00:00:00Z"
-doi: "https://doi.org/10.11779/CJGE202110016"
+date: "2021-05-01T00:00:00Z"
+doi: "https://10.16285/j.rsm.2020.1362"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-16T00:00:00Z"
+publishDate: "2021-04-22T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,26 +22,26 @@ publishDate: "2021-10-16T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*岩土工程学报, 43*(10), 1896-1904+1959"
+publication: "*岩土力学, 42*(04), 1126-1132"
 # publication_short: "Eng. Geol."
 
-abstract: 基于支盘式锚杆室内模型拉拔试验，探究荷载-位移曲线的变化特征和轴力传递特性，然后在此基础上探讨支盘式锚杆的力学模型，推导出盘端阻力的理论计算公式，结合锚-土界面的双曲线非线性模型，采用分段变形协调迭代算法建立荷载传递计算模型，并与实测数据进行对比验证，最后对极限扩孔压力分布、支盘挤扩角等参数进行敏感性分析。研究结果表明，荷载-位移曲线可划分为三阶段，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长；计算模型所得结果与室内实测数据基本一致，验证了本模型的有效性：支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状”；挤扩角大于50°时，对锚杆承载性状影响显著。研究结果对支盘式锚杆的受力分析和设计具有重要的理论及实际意义。
+abstract: 注浆支盘式锚杆是自主研发的一种新型锚杆,具有广阔的应用前景。为了探究支盘式锚杆的承载特性,构建室内试验模型,针对不同的埋置深度、支盘直径和双支盘间距等条件进行拉拔试验,获取相应的荷载-位移曲线,并对部分数据采取无量纲化处理得到埋深比与荷载系数关系曲线,最后通过简化力学模型推导出支盘式锚杆的端阻力与拉拔极限承载力的计算公式。研究结果表明,埋置深度与极限承载力呈非线性关系且存在临界埋深;盘径对抗拔承载力的影响最为显著,与极限承载力呈线性增长关系,极限承载力较普通锚杆提高了2～5倍多;双支盘的分界间距为4倍支盘直径时可充分调用双支盘的承载力,由于双支盘锚杆在加载初期时土体主要为剪切变形,故其荷载-位移曲线开始阶段斜率较单支盘锚杆要大得多;埋深比与荷载系数关系曲线的斜率突变点为临界埋深比,其值为3.02;该计算公式所得结果与4组试验结果基本一致,验证了计算公式的有效性。研究结果对支盘式锚杆的设计和工程应用具有重要的理论及实际意义。
 
 # Summary. An optional shortened abstract.
-summary: 基于室内支盘式锚杆拉拔试验，分析荷载-位移特征与轴力传递规律，建立考虑界面双曲线非线性的分段迭代荷载传递模型并验证有效性。结果显示：荷载-位移曲线呈三阶段，轴力在支盘处突变；极限扩孔压力由“锥台状”向“圆柱状”演化；挤扩角>50°时对承载力影响显著。研究对支盘式锚杆设计具有重要意义。
+summary: 基于自主研发的注浆支盘式锚杆，开展不同埋置深度、盘径和双盘间距条件下的室内拉拔试验，获取荷载–位移曲线并进行无量纲化分析，推导端阻力及极限承载力公式。结果表明：埋深与承载力呈非线性关系并存在临界埋深；盘径对承载力影响最显著，使承载力提高2–5倍；双支盘最佳间距为4D；埋深比临界值为3.02。
 
 tags:
 - 支盘式锚杆
-- 扩孔理论
-- 非线性
-- 荷载传递
-- 数值计算
+- 极限承载力
+- 拉拔试验
+- 端阻力
+
 featured: true
 
 links:
  - name: "Full Text (CNKI)"
-   url: "https://kns.cnki.net/kcms2/article/abstract?v=dSUnQCB_TmN8B1PkpaWMsIR9NUBnt0agc_02gh9_aXcrBp43QVALmY4Wa8U55-PewKYmq03-g89zZK1Yv2MYzCioEuKGt-rNT2PsLyyVsTSpGdgnGD1I1aoXjwg2vT16dd4O4E4reMDf_FkfJGL593t_m93kU581zHKkoXeMAeBqcCkCkyaVrA&uniplatform=NZKPT&language=CHS&captchaId=0cb53655-0188-409f-879c-21b613d48263"
-url_pdf: 'zh/publication/journal-article/paper1/paper.pdf'
+   url: "https://kns.cnki.net/kcms2/article/abstract?v=UsPV4INcYzhMZpB0zQGCFyPARWC465i4EW7mGheWyJx2puDR1LhUHu8TrYQLVb-2tCdkLDz_nPV7g_LqLVpMNJZu5qGK5ql1skGmuY-w2KQfsEozD_GPE6KHYuBVxwAV5G-TdevBibFCwBfxKMUACQm2dMbg1klUA9K_9R4gc7Tju6z0wAz0_VAlj0P0HqNs_qL-gbl0Fc0&uniplatform=NZKPT&captchaId=494dfc1b-c395-4810-94bc-fb44775ab332"
+url_pdf: 'zh/publication/journal-article/Pull-out-test-2021/paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
