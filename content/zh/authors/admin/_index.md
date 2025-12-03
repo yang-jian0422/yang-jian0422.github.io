@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 博士研究生
+role: 岩土工程博士研究生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
