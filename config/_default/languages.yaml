@@ -18,23 +18,23 @@ zh:
   menu:
     main:
       - name: 个人简介
-        url: /
+        url: /zh/
         weight: 10
       - name: 论文
-        url: /#papers
+        url: /zh/#papers
         weight: 11
       - name: Talks
-        url: /#talks
+        url: /zh/#talks
         weight: 12
       - name: News
-        url: /#news
+        url: /zh/#news
         weight: 13
       - name: 教育经历
-        url: experience/
+        url: /zh/experience/
         weight: 20
       - name: 科研项目
-        url: projects/
+        url: /zh/projects/
         weight: 30
       - name: Teaching
-        url: teaching/
+        url: /zh/teaching/
         weight: 40
