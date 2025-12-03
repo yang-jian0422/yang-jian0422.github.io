@@ -17,10 +17,10 @@ zh:
     description: Site description in Chinese...
   menu:
     main:
-      - name: Bio
+      - name: 个人简介
         url: /
         weight: 10
-      - name: Papers
+      - name: 论文
         url: /#papers
         weight: 11
       - name: Talks
@@ -29,10 +29,10 @@ zh:
       - name: News
         url: /#news
         weight: 13
-      - name: 经历
+      - name: 教育经历
         url: experience/
         weight: 20
-      - name: 项目履历
+      - name: 科研项目
         url: projects/
         weight: 30
       - name: Teaching
