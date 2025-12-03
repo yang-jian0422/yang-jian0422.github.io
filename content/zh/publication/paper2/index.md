@@ -19,7 +19,7 @@ publishDate: "2021-10-16T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*岩土工程学报, 43*(10), 1896-1904+1959"
@@ -28,7 +28,7 @@ publication: "*岩土工程学报, 43*(10), 1896-1904+1959"
 abstract: 基于支盘式锚杆室内模型拉拔试验，探究荷载-位移曲线的变化特征和轴力传递特性，然后在此基础上探讨支盘式锚杆的力学模型，推导出盘端阻力的理论计算公式，结合锚-土界面的双曲线非线性模型，采用分段变形协调迭代算法建立荷载传递计算模型，并与实测数据进行对比验证，最后对极限扩孔压力分布、支盘挤扩角等参数进行敏感性分析。研究结果表明，荷载-位移曲线可划分为三阶段，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长；计算模型所得结果与室内实测数据基本一致，验证了本模型的有效性：支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状”；挤扩角大于50°时，对锚杆承载性状影响显著。研究结果对支盘式锚杆的受力分析和设计具有重要的理论及实际意义。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 基于室内支盘式锚杆拉拔试验，分析荷载-位移特征与轴力传递规律，建立考虑界面双曲线非线性的分段迭代荷载传递模型并验证有效性。结果显示：荷载-位移曲线呈三阶段，轴力在支盘处突变；极限扩孔压力由“锥台状”向“圆柱状”演化；挤扩角>50°时对承载力影响显著。研究对支盘式锚杆设计具有重要意义。
 
 tags:
 - 支盘式锚杆
