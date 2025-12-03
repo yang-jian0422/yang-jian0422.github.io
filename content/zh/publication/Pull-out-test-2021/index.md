@@ -93,6 +93,10 @@ slides: example
   <img src="5.png" width="80%">
 </p>
 
+<p align="center">
+  <img src="2.png" width="75%">
+</p>
+
 
 {{% callout note %}}
 支盘式锚杆的埋置深度与极限承载力呈非线性增加，当埋深达到 500 mm 后极限承载力变化幅度逐步降低（存在临界埋深）；埋深比与荷载系数关系曲线的斜率突变点为临界埋深比，$(H/D)_{\mathrm{CR}}$ =3.02。
@@ -104,7 +108,7 @@ N_{\mathrm{pf}}=P_\mathrm{f}/AK_0\gamma H
 $$
 
 <p align="center">
-  <img src="1.png" width="80%">
+  <img src="1.png" width="75%">
 </p>
 
 {{% callout note %}}
