@@ -90,7 +90,7 @@ slides: example
 {{% /callout %}}
 
 <p align="center">
-  <img src="1.png" width="85%">
+  <img src="5.png" width="80%">
 </p>
 
 
@@ -104,7 +104,7 @@ N_{\mathrm{pf}}=P_\mathrm{f}/AK_0\gamma H
 $$
 
 <p align="center">
-  <img src="1.png" width="85%">
+  <img src="1.png" width="80%">
 </p>
 
 {{% callout note %}}
@@ -112,7 +112,7 @@ $$
 {{% /callout %}}
 
 <p align="center">
-  <img src="4.png" width="85%">
+  <img src="4.png" width="80%">
 </p>
 
 
