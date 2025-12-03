@@ -77,14 +77,6 @@ slides: example
 室内模型试验表明：相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
 {{% /callout %}}
 
-<!-- <p align="center">
-  <img src="1.jpg" width="85%">
-</p>
-
-<p align="center">
-  <img src="5.jpg" width="70%">
-</p> -->
-
 <div style="text-align:center; margin-bottom:10px;">
   <img src="1.jpg" width="85%">
 </div>
@@ -100,7 +92,7 @@ slides: example
 {{% /callout %}}
 
 <p align="center">
-  <img src="2.png" width="85%">
+  <img src="2.png" width="95%">
 </p>
 
 当 $r_{0}\leq r_{x}\leq(s_{m}\tan \theta+r_{0})$ 时：
@@ -130,7 +122,7 @@ $$
 {{% /callout %}}
 
 <p align="center">
-  <img src="4.png" width="75%">
+  <img src="4.png" width="80%">
 </p>
 
 
