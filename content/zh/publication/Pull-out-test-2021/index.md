@@ -74,7 +74,7 @@ slides: example
 ---
 {{% callout note %}}
 
-室内模型试验表明：相较于普通锚杆，支盘式锚杆的抗拔承载力得到了显著提高，其荷载-位移曲线可划分为3个阶段，支盘端土体塑性区随荷载增加不断向外延伸发展，当支盘达到极限强度时破裂失效，位移急剧增加，轴力分布沿锚固体深度呈减小趋势且在支盘处发生台阶状突变，荷载比也不断增长。
+支盘式锚杆的埋置深度与极限承载力呈非线性增加，当埋深达到 500 mm 后极限承载力变化幅度逐步降低（存在临界埋深）；盘径与极限承载力呈线性增长关系， 不同支盘直径 D 的锚杆较直锚杆的极限承载力提高了 2～5 倍，说明盘径对抗拔承载力的影响最为显著。
 {{% /callout %}}
 
 <p align="center">
@@ -82,36 +82,28 @@ slides: example
 </p>
 
 {{% callout note %}}
-通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出盘端阻力的计算理论式。
+随着双支盘间距的增大，极限抗拔承载力也逐步加大，当分界间距为 4 倍支盘直径时，可充分调用双支盘的承载力，双支盘锚杆荷载−位移曲线初始阶段斜率较单支盘锚杆要大得多，这是由于在加载初期时土体主要为剪切变形，而在相同的位
+移下，剪应力比压应力增加得快；
 {{% /callout %}}
 
 <p align="center">
   <img src="2.png" width="85%">
 </p>
 
-当 $r_{0}\leq r_{x}\leq(s_{m}\tan \theta+r_{0})$ 时：
-
-$$
-P_u=Ccot\varphi(1+sin\varphi){\left[\frac{G(1+\Delta-(\frac{r_0}{r_x})^2)}{Ccos\varphi+G\Delta}\right]}^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
-$$
-
-当 $(s_m\tan \theta+r_0)\leq r_x\leq R$ 时：
-
-$$
-P_u=Ccot\varphi(1+sin\varphi)\left[\frac{G(1+\Delta-(\frac{r_x-s_m\tan(\theta)}{r_x})^2)}{Ccos\varphi+G\Delta}\right]^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
-$$
-
 {{% callout note %}}
-锚-土界面选用双曲线非线性模型，采用分段变形协调迭代算法建立荷载传递计算模型。
+埋深比与荷载系数关系曲线的斜率突变点为临界埋深比，$(H/D)_{\mathrm{CR}}$ =3.02。
 {{% /callout %}}
+描述锚杆的支盘埋置深度对极限抗拔力的影响，无量纲荷载系数 $N_{\mathrm{pf}}$ 定义为:
+$$
+N_{\mathrm{pf}}=P_\mathrm{f}/AK_0\gamma H
+$$
 
 <p align="center">
-  <img src="featured.png" width="100%">
+  <img src="2.png" width="100%">
 </p>
 
 {{% callout note %}}
-支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状” 。支盘的挤扩角大于 50°时，对锚杆承载性状影响显著。
-{{% /callout %}}
+随着拉拔力的增加，盘端土体产生压缩挤密作用，锚杆轴向土体应力转化为第一主应力并达到极限压力，盘端阻力显著增加，推导得出的支盘式锚杆极限承载力计算公式与试验结果基本一致，验证了计算公式的有效性。
 
 <p align="center">
   <img src="3.png" width="85%">
