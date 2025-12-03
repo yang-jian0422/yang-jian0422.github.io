@@ -70,7 +70,7 @@ slides: example
 ---
 
 <p align="center">
-  <img src="featured.png" width="75%">
+  <img src="featured.png" width="95%">
 </p>
 
 TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下三个特性：
