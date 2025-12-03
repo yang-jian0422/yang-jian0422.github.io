@@ -81,8 +81,6 @@ slides: example
   <img src="1.png" width="90%">
 </p>
 
----
-
 {{% callout note %}}
 通过借鉴静力触探试验锥阻力的计算方法,引用经典的 VESIC 扩孔理论模拟支盘拉拔过程中的挤土效应,推导出盘端阻力的计算理论式。
 {{% /callout %}}
@@ -103,7 +101,6 @@ $$
 P_u=Ccot\varphi(1+sin\varphi)\left[\frac{G(1+\Delta-(\frac{r_x-s_m\tan(\theta)}{r_x})^2)}{Ccos\varphi+G\Delta}\right]^{\frac{sin\varphi}{1+sin\varphi}}-Ccot\varphi 
 $$
 
----
 {{% callout note %}}
 锚-土界面选用双曲线非线性模型，采用分段变形协调迭代算法建立荷载传递计算模型。
 {{% /callout %}}
@@ -112,7 +109,6 @@ $$
   <img src="featured.png" width="100%">
 </p>
 
----
 {{% callout note %}}
 支盘的极限扩孔压力沿支盘径向先快速非线性增长后缓慢减小，其峰值随着位移增大而增大并以支盘中心为圆点径向外移，整体分布由“锥台状”发展为“圆柱状” 。支盘的挤扩角大于 50°时，对锚杆承载性状影响显著。
 {{% /callout %}}
