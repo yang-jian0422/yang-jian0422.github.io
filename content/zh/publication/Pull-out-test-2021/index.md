@@ -80,7 +80,7 @@ slides: example
 - 灵活性强——可选择工程性能良好的土层形成支盘
 
 <p align="center">
-  <img src="3.png" width="80%">
+  <img src="3.png" width="75%">
 </p>
 
 ---
