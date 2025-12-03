@@ -92,7 +92,7 @@ N_{\mathrm{pf}}=P_\mathrm{f}/AK_0\gamma H
 $$
 
 <p align="center">
-  <img src="2.png" width="100%">
+  <img src="2.png" width="80%">
 </p>
 
 {{% callout note %}}
