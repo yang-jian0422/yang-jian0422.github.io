@@ -78,13 +78,13 @@ TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下�
 - 当前时间 $t$ 的预测结果只与历史信息相关，从未来到过去不可能有信息泄漏；
 - 通过使用扩张卷积，感受野以及有效记忆随着网络深度的增加呈指数增长。可以抓取滑坡演化过程中更长的历史时间序列依赖信息，提高滑坡位移预测精度。
 <p align="center">
-  <img src="tcn.png" width="75%">
+  <img src="tcn.png" width="80%">
 </p>
 
 在每次迭代中，贝叶斯优化通过最大化采集函数（Acquisition Function）以确定目标函数的下一个采样位置。随后，在采集函数取最大值的点处（即argmax）对目标函数进行采样，并利用新的观测结果更新高斯过程模型。该过程不断重复，直至满足终止条件。
 
 <p align="center">
-  <img src="fig3.png" width="75%">
+  <img src="fig3.png" width="65%">
 </p>
 
 ---
@@ -93,7 +93,7 @@ TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下�
 {{% /callout %}}
 
 <p align="center">
-  <img src="fig9.png" width="75%">
+  <img src="fig9.png" width="85%">
 </p>
 
 <p align="center">
