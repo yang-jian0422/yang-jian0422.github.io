@@ -14,7 +14,7 @@ publishDate: "2024-02-06T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Acta Geotechnica, 19*(7), 4947-4965"
@@ -69,7 +69,13 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
+TCN 是基于传统一维 CNN 的一个简单但强大的扩展，具有以下三个特性：
+
+- 输出序列与输入序列具有相同的长度；
+- 当前时间 t的预测结果只与历史信息相关，从未来到过去不可能有信息泄
+漏；
+- 通过使用扩张卷积，感受野以及有效记忆随着网络深度的增加呈指数增长。
+可以抓取滑坡演化过程中更长的历史时间序列依赖信息，提高滑坡位移预测精度。
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
