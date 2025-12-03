@@ -70,10 +70,16 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+尧山滑坡位于福建省安溪县，距西坪镇以东约8km,属构造侵蚀中低山地貌区。滑坡体位于山坡中前段的坡麓部，地势起伏显著，地形高程为 350～472 m。滑坡整体呈典型“舌状”形态，由后缘至前缘依次表现为缓坡-陡坡组合结构，主滑动方向为N10E，整体坡度约20°-30°。
+
+<p align="center">
+  <img src="1.png" width="75%">
+</p>
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+尧山滑坡位于福建省安溪县，距西坪镇以东约8km,属构造侵蚀中低山地貌区。滑坡体位于山坡中前段的坡麓部，地势起伏显著，地形高程为 350～472 m。滑坡整体呈典型“舌状”形态，由后缘至前缘依次表现为缓坡-陡坡组合结构，主滑动方向为N10E，整体坡度约20°-30°。
 {{% /callout %}}
+
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
