@@ -54,7 +54,7 @@ url_pdf: 'en/publication/journal-article/paper.pdf'
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: "Top" # 指定图片的焦点区域，用于自动裁剪时对齐。可选值包括 "Center", "TopLeft", "BottomRight" 等。这里为空 ""，表示默认居中。
-  preview_only: false #控制该图片是否只用于列表页预览。false：图片会显示在列表页和正文页。true：仅在列表页显示，不会出现在正文顶部。
+  preview_only: true #控制该图片是否只用于列表页预览。false：图片会显示在列表页和正文页。true：仅在列表页显示，不会出现在正文顶部。
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -87,6 +87,9 @@ slides: example
 通过长期的原位监测实现尧山滑坡整体的三维变形可视化，揭示了滑坡变形的时空动态特征，并将滑坡划分为牵引变形区、主滑区以及阻滑区。滑坡区滑面孔隙压力在地下水补给的季节性变化下会发生周期性波动，导致以加速-减速阶段为特征的间歇性运动。这一运动模式由滑动面形态、复杂的地下水文系统和地质结构特征的相互作用所控制。
 {{% /callout %}}
 
+<p align="center">
+  <img src="featured.png" width="75%">
+</p>
 
 {{% callout note %}}
 研究表明，岩层中的碗状特征可能是尧山滑坡运动的诱因之一。该特征的形成归因于岩层的低渗透性，降雨渗透被截留并快速累积在碗状区域，导致孔隙水压力在滑动带内聚集，进而可能引发滑坡运动。这些关键特征通常容易在基于钻孔解释的岩性剖面中被忽视。
