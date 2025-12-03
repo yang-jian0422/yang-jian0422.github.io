@@ -90,10 +90,6 @@ slides: example
 {{% /callout %}}
 
 <p align="center">
-  <img src="5.png" width="80%">
-</p>
-
-<p align="center">
   <img src="2.png" width="75%">
 </p>
 
