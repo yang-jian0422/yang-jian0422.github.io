@@ -111,6 +111,12 @@ $$
 随着拉拔力的增加，盘端土体产生压缩挤密作用，锚杆轴向土体应力转化为第一主应力并达到极限压力，盘端阻力显著增加，推导得出的支盘式锚杆极限承载力计算公式与试验结果基本一致，验证了计算公式的有效性。
 {{% /callout %}}
 
+盘端阻力 $Q$ 可表示为:
+$$
+Q=\frac{\pi(R^2-r^2)\left[(1-\xi)K_0K_\mathrm{P}\sum\gamma H+2c\sqrt{K_\mathrm{P}}\right]}{(1-\xi K_\mathrm{P})\tan\theta}
+$$
+
+
 <p align="center">
   <img src="4.png" width="80%">
 </p>
