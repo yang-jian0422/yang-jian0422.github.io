@@ -114,7 +114,7 @@ $$
 {{% /callout %}}
 
 <p align="center">
-  <img src="4.png" width="80%">
+  <img src="3.png" width="85%">
 </p>
 
 
