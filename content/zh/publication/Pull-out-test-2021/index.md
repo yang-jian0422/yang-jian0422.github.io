@@ -93,6 +93,7 @@ slides: example
 {{% callout note %}}
 埋深比与荷载系数关系曲线的斜率突变点为临界埋深比，$(H/D)_{\mathrm{CR}}$ =3.02。
 {{% /callout %}}
+
 描述锚杆的支盘埋置深度对极限抗拔力的影响，无量纲荷载系数 $N_{\mathrm{pf}}$ 定义为:
 $$
 N_{\mathrm{pf}}=P_\mathrm{f}/AK_0\gamma H
