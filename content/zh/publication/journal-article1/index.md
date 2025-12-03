@@ -78,7 +78,7 @@ slides: example
 {{% /callout %}}
 
 <div style="text-align:center; margin-bottom:10px;">
-  <img src="1.png" width="100%">
+  <img src="1.png" width="90%">
 </div>
 
 ---
@@ -88,7 +88,7 @@ slides: example
 {{% /callout %}}
 
 <p align="center">
-  <img src="2.png" width="100%">
+  <img src="2.png" width="90%">
 </p>
 
 当 $r_{0}\leq r_{x}\leq(s_{m}\tan \theta+r_{0})$ 时：
