@@ -55,7 +55,7 @@ url_pdf: 'zh/publication/journal-article/Pull-out-test-2021/paper.pdf'
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: "Top" # 指定图片的焦点区域，用于自动裁剪时对齐。可选值包括 "Center", "TopLeft", "BottomRight" 等。这里为空 ""，表示默认居中。
-  preview_only: ture #false #控制该图片是否只用于列表页预览。false：图片会显示在列表页和正文页。true：仅在列表页显示，不会出现在正文顶部。
+  preview_only: true #false #控制该图片是否只用于列表页预览。false：图片会显示在列表页和正文页。true：仅在列表页显示，不会出现在正文顶部。
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -112,7 +112,7 @@ $$
 随着拉拔力的增加，盘端土体产生压缩挤密作用，锚杆轴向土体应力转化为第一主应力并达到极限压力，盘端阻力显著增加，推导得出的支盘式锚杆极限承载力计算公式与试验结果基本一致，验证了计算公式的有效性。
 {{% /callout %}}
 
-支盘锚杆的承载力主要有两部分组成：支盘端阻力与锚固段的侧阻力。极限承载力可表示为
+支盘锚杆的承载力主要有两部分组成：支盘端阻力 $Q$ 与锚固段的侧阻力 $P_\mathrm{s}$。极限承载力 $P_\mathrm{f}$ 可表示为
 
 $$
 P_\mathrm{f}=P_\mathrm{s}+Q
