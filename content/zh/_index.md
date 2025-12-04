@@ -11,7 +11,7 @@ type: landing
 design:
   spacing:
     block: "2rem"     # 控制 block 之间的间距（最重要）
-    section: "4rem"   # 控制 section 上下的外边距
+    section: "2rem"   # 控制 section 上下的外边距
 
 sections:
   - block: resume-biography-3
