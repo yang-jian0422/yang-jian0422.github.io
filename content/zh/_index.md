@@ -90,9 +90,9 @@ sections:
       view: article-grid
       columns: 2
       css_class: wide push-down
-    # advanced:
-    #   spacing:
-    #     padding: ["0rem", "0rem", "0rem", "0rem"]  # 上右下左，适当减小底部间距
+    advanced:
+      spacing:
+        padding: ["0rem", "0rem", "0rem", "0rem"]  # 上右下左，适当减小底部间距
 
   - block: markdown
     content:
