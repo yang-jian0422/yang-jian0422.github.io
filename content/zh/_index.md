@@ -51,6 +51,7 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -72,13 +73,26 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: markdown
+
+  - block: collection
+    id: talks
     content:
       title: 专利及软件著作
-      text: |-
-        {{< collection id="talks" view="article-grid" columns="2" >}}
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 2
+      css_class: wide
+    advanced:
+      spacing:
+        padding: [0, 0, 10px, 0]   # 减小底部留白
 
-        <div style="max-width: 900px; margin: 20px auto 0;">
+  - block: markdown
+    content:
+      text: |-
+        <div style="max-width: 900px; margin: 0 auto; margin-top: -10px;">  <!-- 额外压缩两个 block 的距离 -->
 
         <video controls autoplay muted loop style="width: 100%; border-radius: 12px;">
           <source src="/videos/demo1.mp4" type="video/mp4">
@@ -92,6 +106,7 @@ sections:
         </div>
     design:
       columns: 1
+      
   - block: collection
     id: news
     content:
