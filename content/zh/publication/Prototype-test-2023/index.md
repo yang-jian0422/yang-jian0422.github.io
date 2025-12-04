@@ -16,8 +16,8 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2023-03-01T00:00:00Z'
-doi: ''
+date: "2023-03-01T00:00:00Z"
+doi: "https://10.16285/j.rsm.2022.0198"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-02-01T00:00:00Z'
