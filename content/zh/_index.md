@@ -82,7 +82,7 @@ sections:
     design:
       view: article-grid
       columns: 2
-      css_class: wide
+      css_class: wide #narrow regular wide full
   - block: collection
     id: news
     content:
