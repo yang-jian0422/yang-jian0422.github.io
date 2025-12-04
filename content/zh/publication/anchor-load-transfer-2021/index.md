@@ -41,7 +41,7 @@ featured: true
 links:
  - name: "Full Text (CNKI)"
    url: "https://kns.cnki.net/kcms2/article/abstract?v=dSUnQCB_TmN8B1PkpaWMsIR9NUBnt0agc_02gh9_aXcrBp43QVALmY4Wa8U55-PewKYmq03-g89zZK1Yv2MYzCioEuKGt-rNT2PsLyyVsTSpGdgnGD1I1aoXjwg2vT16dd4O4E4reMDf_FkfJGL593t_m93kU581zHKkoXeMAeBqcCkCkyaVrA&uniplatform=NZKPT&language=CHS&captchaId=0cb53655-0188-409f-879c-21b613d48263"
-url_pdf: '/zh/publication/journal-article/anchor-load-transfer-2021/paper.pdf'
+url_pdf: '/zh/publication/anchor-load-transfer-2021/paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
