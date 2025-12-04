@@ -26,15 +26,15 @@ zh:
       - name: 专利
         url: /zh/#talks
         weight: 12
-      - name: News
-        url: /zh/#news
-        weight: 13
+      # - name: News
+      #   url: /zh/#news
+      #   weight: 13
       - name: 教育经历
         url: /zh/experience/
         weight: 20
       - name: 科研项目
         url: /zh/projects/
         weight: 30
-      - name: Teaching
-        url: /zh/teaching/
-        weight: 40
+      # - name: Teaching
+      #   url: /zh/teaching/
+      #   weight: 40
