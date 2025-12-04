@@ -33,7 +33,7 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 我的研究'
+      title: '📚 My researchr
       subtitle: ''
       text: |-
         主要研究方向: 
@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: 专利及软件专著
       filters:
         folders:
           - event
