@@ -37,7 +37,7 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   - icon: weixin
     icon_pack: fab
-    link: "/wechat-qr.jpg"
+    link: "/static/wechat-qr.jpg"
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
