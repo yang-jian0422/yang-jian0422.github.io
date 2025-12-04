@@ -83,6 +83,24 @@ sections:
       view: article-grid
       columns: 2
       css_class: wide #narrow regular wide full
+  - block: markdown
+    content:
+      title: 专利及软件专著
+      text: |-
+        <div style="max-width: 900px; margin: 0 auto;">
+
+        <video controls autoplay muted loop style="width: 100%; border-radius: 12px;">
+          <source src="/videos/demo1.mp4" type="video/mp4">
+          您的浏览器不支持 HTML5 视频播放。
+        </video>
+
+        <p style="text-align: center; font-size: 16px; margin-top: 10px;">
+          软件著作演示视频
+        </p>
+
+        </div>
+    design:
+      columns: 1
   - block: collection
     id: news
     content:
