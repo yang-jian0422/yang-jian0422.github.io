@@ -1,0 +1,38 @@
+.wechat-modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.wechat-modal:target {
+  display: flex;
+}
+
+.wechat-modal-content {
+  background: #ffffff;
+  padding: 16px 20px;
+  border-radius: 12px;
+  text-align: center;
+  max-width: 320px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+.wechat-modal-content img {
+  max-width: 260px;
+  height: auto;
+  display: block;
+  margin: 0 auto 8px;
+}
+
+.wechat-modal-close {
+  position: absolute;
+  top: 18px;
+  right: 22px;
+  font-size: 28px;
+  color: #ffffff;
+  text-decoration: none;
+}
