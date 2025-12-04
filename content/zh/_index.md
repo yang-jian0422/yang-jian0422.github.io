@@ -106,7 +106,7 @@ sections:
         </div>
     design:
       columns: 1
-      css_class: pull-up
+      css_class: pull-up #让某个 block 往上靠 2rem：
 
   - block: collection
     id: news
