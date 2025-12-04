@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 支盘式锚杆拉拔荷载传递非线性分析软件根据工程实际情况，对边坡土的物理（粘聚力、摩擦角以及泊松比等）、支盘式锚杆（挤扩角、支盘半径以及弹性模量等）和网格划分等参数赋值，通过灵活调用不同的荷载传递模型，对支盘式锚杆拉拔荷载传递的非线性受力性状进行全历程分析，绘制出荷载—位移曲线和沿轴向深度的轴力分布图。该软件主要有如下特点：（1）荷载传递模型的可选择性。基于不同的工程实际情况，可灵活调用不同的荷载传递模型（如双曲线模型、硬化模型和软化模型等）分别进行计算，从而对实际工程进行有效预测；（2）计算参数赋值智能化。软件与Excel文件格式耦合性好，支持Excel数据的提取和保存；（3）考虑边坡土的成层性。支持将支盘式锚杆划分为不同锚杆段数进行计算；（4）软件的可扩充性。该软件为开放式软件，在实际应用过程中随着对支盘式锚杆研究的不断加深，可不断地扩充更好反映支盘式锚杆工作性状的荷载传递模型及支盘端阻力计算模型；（5）软件采用MATLAB GUI编写，具有良好的可移植性。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
