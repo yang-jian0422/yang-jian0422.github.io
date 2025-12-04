@@ -35,9 +35,9 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: weixin
-    icon_pack: fab
-    link: "/wechat-qr.jpg"
+  - icon: brands/weixin
+    url: "/wechat-qr.jpg"
+    label: WeChat
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
