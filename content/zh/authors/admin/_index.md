@@ -36,7 +36,7 @@ profiles:
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
   - icon: brands/weixin
-    url: "/wechat-qr.jpg"
+    url: "#wechat-qr"
     label: WeChat
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
