@@ -106,9 +106,7 @@ sections:
         </div>
     design:
       columns: 1
-    advanced:
-      spacing:
-        padding: ["0rem", "0rem", "4rem", "0rem"]
+      css_class: pull-up
 
   - block: collection
     id: news
