@@ -1,5 +1,5 @@
 ---
-title: 专利
+title: 专利及软件著作
 cms_exclude: true
 #url: talk
 
