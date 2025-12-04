@@ -33,10 +33,13 @@ profiles:
   - icon: at-symbol
     url: 'mailto:yj_fzu@126.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  - icon: weixin
+    icon_pack: fab
+    link: "/wechat-qr.jpg"
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/yang-jian0422
   - icon: brands/linkedin
