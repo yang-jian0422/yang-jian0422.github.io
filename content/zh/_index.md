@@ -33,7 +33,7 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My researchr
+      title: '📚 My Research'
       subtitle: ''
       text: |-
         主要研究方向: 
