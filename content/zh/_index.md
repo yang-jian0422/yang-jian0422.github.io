@@ -72,22 +72,13 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: 专利及软件著作
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 2
-      css_class: wide #narrow regular wide full
   - block: markdown
     content:
-      #title: 专利及软件专著
+      title: 专利及软件著作
       text: |-
-        <div style="max-width: 900px; margin: 0 auto;">
+        {{< collection id="talks" view="article-grid" columns="2" >}}
+
+        <div style="max-width: 900px; margin: 20px auto 0;">
 
         <video controls autoplay muted loop style="width: 100%; border-radius: 12px;">
           <source src="/videos/demo1.mp4" type="video/mp4">
