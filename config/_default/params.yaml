@@ -60,3 +60,7 @@ features:
     enable: ture
   privacy_pack:
     enable: false
+
+design:
+  spacing:
+    section: "2rem"
