@@ -209,7 +209,7 @@ awards:
 <div id="qq-qr" class="wechat-modal">
   <a href="#" class="wechat-modal-close">×</a>
   <div class="wechat-modal-content">
-    <img src="/qq-qr.jpg" alt="QQ QR" />
+    <img src="/qq-qr.png" alt="QQ QR" />
     <p>QQ 扫码添加联系</p>
   </div>
 </div>
