@@ -85,7 +85,7 @@ sections:
       css_class: wide #narrow regular wide full
   - block: markdown
     content:
-      title: 专利及软件专著
+      #title: 专利及软件专著
       text: |-
         <div style="max-width: 900px; margin: 0 auto;">
 
