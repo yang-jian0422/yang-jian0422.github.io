@@ -46,6 +46,9 @@ url_pdf: ''
 url_slides: 'https://slideshare.net'
 url_video: 'https://youtube.com'
 
+image:
+ focal_point: "Center"
+
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
