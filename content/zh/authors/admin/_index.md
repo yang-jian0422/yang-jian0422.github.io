@@ -38,7 +38,7 @@ profiles:
   - icon: brands/weixin
     url: "#wechat-qr"
     label: WeChat
-  - icon: brands/tencentqq
+  - icon: brands/telegram
     url: "#qq-qr"
     label: QQ
   # - icon: brands/instagram
