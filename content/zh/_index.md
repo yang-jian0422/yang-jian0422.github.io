@@ -87,7 +87,7 @@ sections:
       css_class: wide
     advanced:
       spacing:
-        padding: ["0rem", "0rem", "0.5rem", "0rem"]  # 上右下左，适当减小底部间距
+        padding: ["0rem", "0rem", "0rem", "0rem"]  # 上右下左，适当减小底部间距
 
   - block: markdown
     content:
@@ -108,7 +108,7 @@ sections:
       columns: 1
     advanced:
       spacing:
-        padding: ["0rem", "0rem", "0rem", "0rem"]
+        padding: ["0rem", "0rem", "4rem", "0rem"]
 
   - block: collection
     id: news
