@@ -36,3 +36,12 @@
   color: #ffffff;
   text-decoration: none;
 }
+
+
+/* 针对 publication 列表中，href="#" 的标题链接：禁止点击 + 去掉下划线效果 */
+.pub-list-item .pub-title a[href="#"] {
+  pointer-events: none;       /* 鼠标点了没反应 */
+  cursor: default;            /* 光标变成普通箭头 */
+  text-decoration: none;      /* 去掉下划线 */
+  color: inherit;             /* 使用普通文字颜色 */
+}
