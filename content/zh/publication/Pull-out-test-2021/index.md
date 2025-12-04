@@ -41,7 +41,7 @@ featured: true
 links:
  - name: "Full Text (CNKI)"
    url: "https://kns.cnki.net/kcms2/article/abstract?v=UsPV4INcYzhMZpB0zQGCFyPARWC465i4EW7mGheWyJx2puDR1LhUHu8TrYQLVb-2tCdkLDz_nPV7g_LqLVpMNJZu5qGK5ql1skGmuY-w2KQfsEozD_GPE6KHYuBVxwAV5G-TdevBibFCwBfxKMUACQm2dMbg1klUA9K_9R4gc7Tju6z0wAz0_VAlj0P0HqNs_qL-gbl0Fc0&uniplatform=NZKPT&captchaId=494dfc1b-c395-4810-94bc-fb44775ab332"
-url_pdf: 'zh/publication/Pull-out-test-2021/Pull-out-test-2021/paper.pdf'
+url_pdf: '/zh/publication/Pull-out-test-2021/Pull-out-test-2021/paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
