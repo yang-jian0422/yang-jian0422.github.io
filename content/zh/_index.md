@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 专利及软件专著
+      title: 专利及软件著作
       filters:
         folders:
           - event
