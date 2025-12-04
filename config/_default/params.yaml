@@ -63,4 +63,5 @@ features:
 
 design:
   spacing:
-    section: "2rem"
+    block: "2rem"     # 控制 block 之间的间距（最重要）
+    section: "2rem"   # 控制 section 上下的外边距
