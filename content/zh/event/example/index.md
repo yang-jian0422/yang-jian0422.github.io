@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 本发明涉及一种多支盘锚固体系扩孔设备及施工方法，包括用以固定在土体锚孔处的固定板，所述固定板上连接有用以伸入锚孔中的空心管，固定板后侧通过液压缸连接有电机，所述电机的主轴上连接有穿过空心管的螺旋清土杆，所述空心管前端设置有由螺旋清土杆带动旋转并通过螺旋清土杆轴向移动控制伸缩的扩孔头。本发明多支盘锚固体系扩孔设备采用施压-削土-运渣的方法进行扩孔，使用方便快捷，扩孔效果好，可针对不同条件的岩土体，无论是软土还是高密实土体，都能利用该设备进行扩孔且扩孔效果显著；结构设计紧凑合理，不占用有限的锚孔空间，使扩孔效率最大化。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
