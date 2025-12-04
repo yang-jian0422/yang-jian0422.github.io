@@ -196,7 +196,7 @@ awards:
 
 ## 关于我
 
-杨坚，福州大学岩土与地质工程系博士研究生，导师为[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm)，主要研究方向为边坡与滑坡灾害防治以及新型锚固结构。在 Engineering Geology、Acta Geotechnica 以及岩土力学等国内外该领域著名期刊上发表学术论文 6 篇（其中第一作者 4 篇），授权发明专利 2 项，登记软件著作权 1 项，参与国家自然科学基金（重点项目） 2 项，主持国家级大创项目 1 项。
+杨坚，福州大学岩土与地质工程系博士研究生，导师为[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm)，主要研究方向为边坡与滑坡灾害防治以及新型锚固结构。在 Engineering Geology、Acta Geotechnica 以及岩土力学等国内外顶级期刊上发表学术论文 6 篇（其中第一作者 4 篇），授权发明专利 2 项，登记软件著作权 1 项，参与国家自然科学基金（重点项目） 2 项，主持国家级大创项目 1 项。
 
 <div id="wechat-qr" class="wechat-modal">
   <a href="#" class="wechat-modal-close">×</a>
