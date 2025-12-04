@@ -4,14 +4,14 @@ title: ""
 date: 2022-10-24
 type: landing
 
-# design:
-#   # Default section spacing
-#   spacing: "3rem"
-
 design:
-  spacing:
-    block: "2rem"     # 控制 block 之间的间距（最重要）
-    section: "2rem"   # 控制 section 上下的外边距
+  # Default section spacing
+  spacing: "3rem"
+
+# design:
+#   spacing:
+#     block: "2rem"     # 控制 block 之间的间距（最重要）
+#     section: "2rem"   # 控制 section 上下的外边距
 
 sections:
   - block: resume-biography-3
