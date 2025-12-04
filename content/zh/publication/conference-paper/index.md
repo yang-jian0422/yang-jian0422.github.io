@@ -24,6 +24,9 @@ publishDate: '2017-01-01T00:00:00Z'
 # Enter a publication type from the CSL standard.
 publication_types: ['paper-conference']
 
+# 👇 关键：这一行只加在不想点击的论文里
+url: "#"
+
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
