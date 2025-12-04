@@ -38,7 +38,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/yang-jian0422
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -190,5 +190,5 @@ awards:
 
 ## 关于我
 
-杨坚，福州大学岩土与地质工程系博士研究生，导师为[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm)，主要研究方向为边坡与滑坡灾害防治以及新型锚固结构。在 Engineering Geology、Acta Geotechnica 以及岩土力学等国内外著名期刊发表学术6篇（包括第一作者4篇），授权发明专利2项，软件著作权1项。
+杨坚，福州大学岩土与地质工程系博士研究生，导师为[简文彬 教授](https://zjxy.fzu.edu.cn/info/1017/4904.htm)，主要研究方向为边坡与滑坡灾害防治以及新型锚固结构。在 Engineering Geology、Acta Geotechnica 以及岩土力学等国内外该领域著名期刊发表学术6篇（其中第一作者4篇），授权发明专利2项，软件著作权1项。
 
