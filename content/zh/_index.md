@@ -87,12 +87,12 @@ sections:
       css_class: wide
     advanced:
       spacing:
-        padding: [0, 0, 10px, 0]   # 减小底部留白
+        padding: ["0rem", "0rem", "0.5rem", "0rem"]  # 上右下左，适当减小底部间距
 
   - block: markdown
     content:
       text: |-
-        <div style="max-width: 900px; margin: 0 auto; margin-top: -10px;">  <!-- 额外压缩两个 block 的距离 -->
+        <div style="max-width: 900px; margin: -8px auto 0;">  <!-- 这里用负 margin-top 再压缩与上方 block 的距离 -->
 
         <video controls autoplay muted loop style="width: 100%; border-radius: 12px;">
           <source src="/videos/demo1.mp4" type="video/mp4">
@@ -106,7 +106,10 @@ sections:
         </div>
     design:
       columns: 1
-      
+    advanced:
+      spacing:
+        padding: ["0rem", "0rem", "0rem", "0rem"]
+
   - block: collection
     id: news
     content:
