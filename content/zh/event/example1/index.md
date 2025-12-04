@@ -70,13 +70,11 @@ slides: ""
 </p>
 
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+控制层实现用户对软件主界面进行操作的功能，通过主界面菜单栏支持对荷载模型选择界面、输入参数界面、软件使用帮助界面以及数值计算和绘制曲线图的运算界面的调用。
 {{% /callout %}}
 
-Slides can be added in a few ways:
+{{% callout note %}}
+输入层是实现用户与软件进行信息交互的途径。该软件的输入层将土的物理参数（粘聚力、摩擦角、弹性模量以及泊松比等）、支盘式锚杆参数（挤扩角、支盘半径以及锚杆弹性模量等）和网格划分参数三方面进行赋值，见图3。对用户未经实测而无法确定的参数，用户可对照本区域类似工程的地质和设计参数进行比较后确定。
+{{% /callout %}}
 
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
