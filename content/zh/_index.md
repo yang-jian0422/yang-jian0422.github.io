@@ -82,7 +82,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: 专利及软件著作
+      title: Patents and Software Copyrights
       filters:
         folders:
           - event
