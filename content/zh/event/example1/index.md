@@ -27,7 +27,7 @@ authors:
   - admin
 
 tags: 
-- 著作权
+- 软件著作权
 
 # Is this a featured talk? (true/false)
 featured: false
