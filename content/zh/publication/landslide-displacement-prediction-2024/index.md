@@ -17,7 +17,7 @@ publishDate: "2024-02-06T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Acta Geotechnica, 19*(7), 4947-4965"
+publication: "*Acta Geotechnica*, 19(7), 4947-4965"
 publication_short: ""
 
 abstract: 为克服现有滑坡位移预测模型的局限性，本研究构建了一种融合贝叶斯优化与时间卷积网络（BO-TCN）的新型预测方法，并充分考虑研究区滑坡物理机制的动态演化特征。该模型能够自动从复杂的多变量时序数据中提取有效特征，并在训练过程中避免未来信息泄漏。同时，引入贝叶斯优化以高效搜索最优超参数，提高模型调参过程的透明度和可解释性。相比循环神经网络（RNN）类模型，BO-TCN 具有更灵活的感受野，可实现更快的训练速度和高效的并行计算。最后，利用福建省安溪县尧山滑坡的长期监测数据验证模型性能。研究结果表明，BO-TCN 均显著优于多种基准模型，预测精度更高。
