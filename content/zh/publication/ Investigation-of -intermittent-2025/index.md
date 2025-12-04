@@ -21,8 +21,8 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"] 
 
 # Publication name and optional abbreviated publication name.
-publication: "*Engineering Geology, 354*(1), 108117"
-publication_short: "Eng. Geol."
+publication: "*Engineering Geology*, 354(1), 108117"
+#publication_short: "Eng. Geol."
 
 abstract: 尧山大型滑坡位于中国东南丘陵山地，滑体内部发育复杂的地下水文系统，表现出典型的间歇性滑动特征。本文综合长期原位监测与微动探测技术，探讨其间歇性滑动的致滑机制。研究构建了滑坡关键区域的二维视剪切波速度结构，识别出与岩性边界及潜在滑动面相关的横向与纵向不连续性。通过将低速剪切波异常区与钻孔岩性资料及深部变形特征相结合，明确了主要滑动面的深度与形态。多个剖面揭示滑体内部存在多个碗状结构，这些低速异常区相互贯通，构成潜在的优势水文通道。监测结果表明，在强降雨条件下，碗状区域易发生孔压快速积聚，诱发滑体再活动。实地调查进一步证实，这些低速异常区与地表沟壑之间存在连通关系，沟壑中的常年流水通过滑坡碎石的长期渗流，可能加速了滑动带的内部侵蚀。研究成果为深入理解滑坡的水力-力学耦合机制提供了新的视角，并为类似地质环境下滑坡灾害的风险识别与防治对策制定提供了科学依据。
 
@@ -40,7 +40,7 @@ featured: true
 links:
  - name: "Full Text (Elsevier)"
    url: "https://www.sciencedirect.com/science/article/abs/pii/S0013795225002133?via%3Dihub"
-url_pdf: 'en/publication/journal-article/paper.pdf'
+url_pdf: 'zh/publication/ Investigation-of -intermittent-2025/paper.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
