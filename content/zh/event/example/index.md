@@ -62,8 +62,14 @@ projects:
   - example
 ---
 
+与现有技术相比，本发明具有以下有益效果：
+
 {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
+本发明多支盘锚固体系扩孔设备采用施压-削土-运渣的方法进行扩孔，使用方便快捷，扩孔效果好，可针对不同条件的岩土体，无论是软土还是高密实土体，都能利用该设备进行扩孔且扩孔效果显著；结构设计紧凑合理，不占用有限的锚孔空间，使扩孔效率最大化；
+{{% /callout %}}
+
+{{% callout note %}}
+本发明形成的多支盘锚固体系的锚杆单杆抗拔承载能力大幅度提高，在满足设计要求的前提下，在布置形式上可增大锚杆间距，避免锚杆穿过不利地层，减少锚杆超红线问题，改善施工条件，节约工程造价。
 {{% /callout %}}
 
 Slides can be added in a few ways:
