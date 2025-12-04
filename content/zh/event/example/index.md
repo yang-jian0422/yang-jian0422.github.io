@@ -28,7 +28,7 @@ authors:
   - admin
 
 tags: 
-- 专利
+- 发明专利
 
 
 # Is this a featured talk? (true/false)
