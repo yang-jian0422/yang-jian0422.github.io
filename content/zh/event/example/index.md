@@ -32,11 +32,12 @@ tags:
 
 
 # Is this a featured talk? (true/false)
-featured: false
+#featured: false
 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: "Center"
+  preview_only: ture
 
 #links:
 #  - icon: twitter
@@ -73,11 +74,3 @@ projects:
 {{% callout note %}}
 本发明形成的多支盘锚固体系的锚杆单杆抗拔承载能力大幅度提高，在满足设计要求的前提下，在布置形式上可增大锚杆间距，避免锚杆穿过不利地层，减少锚杆超红线问题，改善施工条件，节约工程造价。
 {{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
