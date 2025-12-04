@@ -38,6 +38,9 @@ profiles:
   - icon: brands/weixin
     url: "#wechat-qr"
     label: WeChat
+  - icon: brands/qq
+    url: "#qq-qr"
+    label: QQ
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
   - icon: brands/github
@@ -200,5 +203,13 @@ awards:
   <div class="wechat-modal-content">
     <img src="/wechat-qr.jpg" alt="WeChat QR" />
     <p>微信扫码添加联系</p>
+  </div>
+</div>
+
+<div id="qq-qr" class="wechat-modal">
+  <a href="#" class="wechat-modal-close">×</a>
+  <div class="wechat-modal-content">
+    <img src="/qq-qr.jpg" alt="QQ QR" />
+    <p>QQ 扫码添加联系</p>
   </div>
 </div>
