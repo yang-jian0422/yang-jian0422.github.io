@@ -95,7 +95,7 @@ sections:
         </video>
 
         <p style="text-align: center; font-size: 16px; margin-top: 10px;">
-          软件著作演示视频
+          扩孔设备工作原理动画
         </p>
 
         </div>
