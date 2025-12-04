@@ -54,7 +54,7 @@ featured: false
 links:
  - name: "Full Text (CNKI)"
    url: "https://kns.cnki.net/kcms2/article/abstract?v=dzw7IdLhHkFG_9MDF-IgDYrgSokvIJVVaBAg820IPROFJmrcyYPXQfSVls1JhSpzsWUmjMnDyf51cZaqYxLylZWLZRXmBZfBA7Kro97VS89L_l_wQ4WOcAkJX1gv3Q2XcMgwzlPvc0NratRNr0FMzNDwI-0PqRX2Wbv_Dbqup4qva4ZSJr4WJQ==&uniplatform=NZKPT&language=CHS"
-url_pdf: 'zh/publication/journal-article/Prototype-test-2023/paper.pdf'
+url_pdf: '/zh/publication/journal-article/Prototype-test-2023/paper.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
