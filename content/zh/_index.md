@@ -82,6 +82,7 @@ sections:
     design:
       view: article-grid
       columns: 2
+      css_class: wide
   - block: collection
     id: news
     content:
