@@ -60,9 +60,14 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
+支盘式锚杆拉拔荷载传递非线性分析软件主要由控制层、输入层、逻辑层和输出层4部分组成。
+
+<p align="center">
+  <img src="1.png" width="90%">
+</p>
 
 {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
