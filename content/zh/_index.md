@@ -113,6 +113,14 @@ sections:
       columns: 1
       css_class: pull-up #让某个 block 往上靠 2rem：
 
+  - block: resume-experience-2
+    content:
+      title: 经历
+      username: admin   # 这里从 admin 作者资料中读取 work 数据
+      text: ""
+    design:
+      columns: 1
+
   # - block: collection
   #   id: news
   #   content:
