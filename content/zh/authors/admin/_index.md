@@ -85,37 +85,29 @@ education:
     date_start: 2014-09-01
     date_end: 2018-06-30
     summary: |
-      GPA: 3.4/4.0
-
       - 论文题目：温州某深基坑支护结构设计与数值模拟分析
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: 闽台高植被覆盖区台风暴雨型滑坡孕灾环境、成灾机制与动态预警（U2005205）
     company_name: 国家自然科学基金促进海峡两岸科技合作联合基金（重点项目）
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: '2024-12-31'
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: '2021'
+    date_end: '2024'
+    summary: |
+      - 建立福建省龙岩市武平县浅层滑坡原位监测站
+      - 调研群发性滑坡
+      - 
   - position: 台风暴雨型滑坡多级监测预警系统研究（41861134011）
     company_name: 国家自然科学基金中智国际合作项目（重点项目）
     company_url: ''
     company_logo: ''
-    date_start: 2018-01-01
-    date_end: 2022-12-31
+    date_start: '2018'
+    date_end: '2022'
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - 建立福建省泉州市安溪县大型间歇性滑坡多物理场监测平台（2019-至今）
+      - 地球物理探测（ERT、微动阵列探测、FVDS）
+      - 构建滑坡预警模型
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
