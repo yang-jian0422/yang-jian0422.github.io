@@ -31,10 +31,10 @@ zh:
       #   weight: 13
       - name: 教育经历
         url: /zh/experience/
-        weight: 20
+        weight: 13
       - name: 科研项目
         url: /zh/projects/
-        weight: 30
+        weight: 20
       # - name: Teaching
       #   url: /zh/teaching/
       #   weight: 40
