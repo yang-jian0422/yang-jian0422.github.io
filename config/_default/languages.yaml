@@ -32,9 +32,9 @@ zh:
       - name: 经历
         url: /zh/experience/
         weight: 13
-      - name: 科研项目
-        url: /zh/projects/
-        weight: 20
+      # - name: 科研项目
+      #   url: /zh/projects/
+      #   weight: 20
       # - name: Teaching
       #   url: /zh/teaching/
       #   weight: 40
