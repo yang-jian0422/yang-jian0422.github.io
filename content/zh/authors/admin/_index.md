@@ -23,9 +23,9 @@ highlight_name: true
 role: 岩土工程 博士研究生
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+# organizations:
+#   - name: OpenAI
+#     url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -53,9 +53,9 @@ profiles:
     url: https://orcid.org/0000-0001-6526-7441
 
 interests:
-  - Slow Landslide Processes 
-  - Shear Behavior of Landslide Clay and Fault Gouge
-  - Information Retrieval
+  - Road cycling
+  - Hiking
+  - Road trips
 
 education:
   - area: 博士 岩土工程（硕博连读）
