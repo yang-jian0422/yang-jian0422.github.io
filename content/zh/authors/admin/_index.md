@@ -94,7 +94,7 @@ work:
     company_logo: ''
     date_start: '2021'
     date_end: '2024'
-    summary: |
+    summary: |2-
       - 建立福建省龙岩市武平县浅层滑坡原位监测站
       - 调研群发性滑坡
       - 
