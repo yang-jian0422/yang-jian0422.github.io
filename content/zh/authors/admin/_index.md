@@ -68,7 +68,7 @@ education:
       
     button:
       text: 'Read Thesis'
-      url: /uploads/resume.pdf
+      url: /uploads/absract.pdf
   # - area: MEng Geotechnical Engineering
   #   institution: 福州大学
   #   date_start: 2019-09-01
