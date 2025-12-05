@@ -49,6 +49,7 @@ image:
 # url_pdf: ''
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
+certificate_url: https://www.datacamp.com
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
