@@ -31,7 +31,7 @@ zh:
       #   weight: 13
       - name: 经历
         url: /zh/experience/
-        weight: 13
+        weight: 20
       # - name: 科研项目
       #   url: /zh/projects/
       #   weight: 20
