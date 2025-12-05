@@ -123,7 +123,7 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Matlab
         description: ''
         percent: 40
         icon: circle-stack
