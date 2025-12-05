@@ -94,23 +94,23 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: 闽台高植被覆盖区台风暴雨型滑坡孕灾环境、成灾机制与动态预警（U2005205）
+    company_name: 国家自然科学基金促进海峡两岸科技合作联合基金（重点项目）
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
-    date_end: ''
+    date_end: '2024-12-31'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: 台风暴雨型滑坡多级监测预警系统研究（41861134011）
+    company_name: 国家自然科学基金中智国际合作项目（重点项目）
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-01-01
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
