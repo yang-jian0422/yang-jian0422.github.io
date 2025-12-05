@@ -37,7 +37,7 @@ featured: true
 links:
 - name: Full Text (Springer)
   url: https://doi.org/10.1007/s11440-023-02205-8
-url_pdf: https://link.springer.com/content/pdf/10.1007/s11440-023-02205-8.pdf
+url_pdf: '/zh/publication/landslide-displacement-prediction-2024/paper.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
