@@ -86,7 +86,7 @@ education:
     date_end: 2018-06-30
     summary: |
       - 论文题目：温州某深基坑支护结构设计与数值模拟分析
-      
+
 work:
   - position: 闽台高植被覆盖区台风暴雨型滑坡孕灾环境、成灾机制与动态预警（U2005205）
     company_name: 国家自然科学基金促进海峡两岸科技合作联合基金（重点项目）
@@ -107,7 +107,8 @@ work:
     summary: |
       - 建立福建省泉州市安溪县大型间歇性滑坡多物理场监测平台（2019-至今）
       - 地球物理探测（ERT、微动阵列探测、FVDS）
-      - 构建滑坡预警模型
+      - 室内环剪试验
+      - 构建滑坡监测预警模型系统
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
