@@ -22,7 +22,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: /uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -112,7 +112,7 @@ sections:
     design:
       columns: 1
       css_class: pull-up #让某个 block 往上靠 2rem：
-      
+
   # - block: collection
   #   id: news
   #   content:
