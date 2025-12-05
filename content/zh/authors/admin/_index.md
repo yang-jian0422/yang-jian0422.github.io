@@ -126,7 +126,7 @@ skills:
       - name: Matlab
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: 爱好
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -148,7 +148,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 75
+    percent: 60
   # - name: Portuguese
   #   percent: 25
 
