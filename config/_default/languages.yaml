@@ -23,13 +23,13 @@ zh:
       - name: 论文
         url: /zh/#papers
         weight: 11
-      - name: 专利
+      - name: 专利及著作权
         url: /zh/#talks
         weight: 12
       # - name: News
       #   url: /zh/#news
       #   weight: 13
-      - name: 经历
+      - name: 科研及教育经历
         url: /zh/experience/
         weight: 20
       # - name: 科研项目
