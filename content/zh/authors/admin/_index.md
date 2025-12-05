@@ -92,9 +92,9 @@ work:
     company_name: 国家自然科学基金促进海峡两岸科技合作联合基金（重点项目）
     company_url: ''
     company_logo: ''
-    date_start: '2021'
-    date_end: '2024'
-    summary: |2-
+    date_start: '2021-01-01'
+    date_end: '2024-12-31'
+    summary: |
       - 建立福建省龙岩市武平县浅层滑坡原位监测站
       - 调研群发性滑坡
       - 
@@ -102,8 +102,8 @@ work:
     company_name: 国家自然科学基金中智国际合作项目（重点项目）
     company_url: ''
     company_logo: ''
-    date_start: '2018'
-    date_end: '2022'
+    date_start: '2018-01-01'
+    date_end: '2022-12-31'
     summary: |
       - 建立福建省泉州市安溪县大型间歇性滑坡多物理场监测平台（2019-至今）
       - 地球物理探测（ERT、微动阵列探测、FVDS）
